@@ -8,25 +8,25 @@ lead: Every mod in the pack, grouped by what it does.
 <table>
 <tr><th colspan="2">Mod</th><th>What it does</th></tr>
 <tr><td><img src="{{ '/modicons/archeological.png' | relative_url }}" alt="" width="32" height="32"></td><td>Archeological</td><td>Adventure and structures</td></tr>
-<tr><td></td><td>ATi Structures</td><td>Adventure and structures</td></tr>
+<tr><td><img src="{{ '/modicons/ati-structures.png' | relative_url }}" alt="" width="32" height="32"></td><td>ATi Structures</td><td>Adventure and structures</td></tr>
 <tr><td><img src="{{ '/modicons/betterarcheology.png' | relative_url }}" alt="" width="32" height="32"></td><td>Better Archeology</td><td>Adventure and structures</td></tr>
-<tr><td></td><td>Epic Dungeons</td><td>Adventure and structures</td></tr>
-<tr><td></td><td>Epic Igloos</td><td>Adventure and structures</td></tr>
-<tr><td></td><td>Epic Jungle Temples</td><td>Adventure and structures</td></tr>
-<tr><td></td><td>Epic Villages</td><td>Adventure and structures</td></tr>
-<tr><td></td><td>Epic Witch Huts</td><td>Adventure and structures</td></tr>
-<tr><td></td><td>Grim Kingdoms</td><td>Adventure and structures</td></tr>
+<tr><td><img src="{{ '/modicons/epic-dungeons.png' | relative_url }}" alt="" width="32" height="32"></td><td>Epic Dungeons</td><td>Adventure and structures</td></tr>
+<tr><td><img src="{{ '/modicons/epic-igloos.png' | relative_url }}" alt="" width="32" height="32"></td><td>Epic Igloos</td><td>Adventure and structures</td></tr>
+<tr><td><img src="{{ '/modicons/epic-jungle-temples.png' | relative_url }}" alt="" width="32" height="32"></td><td>Epic Jungle Temples</td><td>Adventure and structures</td></tr>
+<tr><td><img src="{{ '/modicons/epic-villages.png' | relative_url }}" alt="" width="32" height="32"></td><td>Epic Villages</td><td>Adventure and structures</td></tr>
+<tr><td><img src="{{ '/modicons/epic-witch-huts.png' | relative_url }}" alt="" width="32" height="32"></td><td>Epic Witch Huts</td><td>Adventure and structures</td></tr>
+<tr><td><img src="{{ '/modicons/grim-kingdoms.png' | relative_url }}" alt="" width="32" height="32"></td><td>Grim Kingdoms</td><td>Adventure and structures</td></tr>
 <tr><td><img src="{{ '/modicons/hopo.png' | relative_url }}" alt="" width="32" height="32"></td><td>HopoBetterMineshaft</td><td>Adventure and structures</td></tr>
 <tr><td><img src="{{ '/modicons/hoporp.png' | relative_url }}" alt="" width="32" height="32"></td><td>HopoBetterRuinedPortals</td><td>Adventure and structures</td></tr>
 <tr><td><img src="{{ '/modicons/hopour.png' | relative_url }}" alt="" width="32" height="32"></td><td>HopoBetterUnderwaterRuins</td><td>Adventure and structures</td></tr>
 <tr><td></td><td>L_Ender's Cataclysm</td><td>Adventure and structures</td></tr>
 <tr><td></td><td>Lootintegrations</td><td>Adventure and structures</td></tr>
 <tr><td></td><td>Lootintegrations: Better Archeology</td><td>Adventure and structures</td></tr>
-<tr><td></td><td>Lootr</td><td>Adventure and structures</td></tr>
-<tr><td></td><td>Luki's Ancient Cities</td><td>Adventure and structures</td></tr>
-<tr><td></td><td>Luki's Crazy Chambers</td><td>Adventure and structures</td></tr>
-<tr><td></td><td>Luki's Strongholds</td><td>Adventure and structures</td></tr>
-<tr><td></td><td>Luki's Woodland Mansions</td><td>Adventure and structures</td></tr>
+<tr><td><img src="{{ '/modicons/lootr.png' | relative_url }}" alt="" width="32" height="32"></td><td>Lootr</td><td>Adventure and structures</td></tr>
+<tr><td><img src="{{ '/modicons/luki-s-ancient-cities.png' | relative_url }}" alt="" width="32" height="32"></td><td>Luki's Ancient Cities</td><td>Adventure and structures</td></tr>
+<tr><td><img src="{{ '/modicons/luki-s-crazy-chambers.png' | relative_url }}" alt="" width="32" height="32"></td><td>Luki's Crazy Chambers</td><td>Adventure and structures</td></tr>
+<tr><td><img src="{{ '/modicons/luki-s-strongholds.png' | relative_url }}" alt="" width="32" height="32"></td><td>Luki's Strongholds</td><td>Adventure and structures</td></tr>
+<tr><td><img src="{{ '/modicons/luki-s-woodland-mansions.png' | relative_url }}" alt="" width="32" height="32"></td><td>Luki's Woodland Mansions</td><td>Adventure and structures</td></tr>
 <tr><td><img src="{{ '/modicons/villagesandpillages.png' | relative_url }}" alt="" width="32" height="32"></td><td>Villages &amp; Pillages</td><td>Adventure and structures</td></tr>
 <tr><td><img src="{{ '/modicons/betterdeserttemples.png' | relative_url }}" alt="" width="32" height="32"></td><td>YUNG's Better Desert Temples</td><td>Adventure and structures</td></tr>
 <tr><td><img src="{{ '/modicons/another_furniture.png' | relative_url }}" alt="" width="32" height="32"></td><td>Another Furniture</td><td>Building and decoration</td></tr>
@@ -36,7 +36,7 @@ lead: Every mod in the pack, grouped by what it does.
 <tr><td><img src="{{ '/modicons/immersivelanterns.png' | relative_url }}" alt="" width="32" height="32"></td><td>Immersive Lanterns</td><td>Building and decoration</td></tr>
 <tr><td><img src="{{ '/modicons/xercapaint.png' | relative_url }}" alt="" width="32" height="32"></td><td>Joy of Painting</td><td>Building and decoration</td></tr>
 <tr><td></td><td>Kaleidoscope Doll</td><td>Building and decoration</td></tr>
-<tr><td></td><td>LuckysShowcase</td><td>Building and decoration</td></tr>
+<tr><td><img src="{{ '/modicons/luckysshowcase.png' | relative_url }}" alt="" width="32" height="32"></td><td>LuckysShowcase</td><td>Building and decoration</td></tr>
 <tr><td><img src="{{ '/modicons/mcwdoors.png' | relative_url }}" alt="" width="32" height="32"></td><td>Macaw's Doors</td><td>Building and decoration</td></tr>
 <tr><td></td><td>Playing Cards</td><td>Building and decoration</td></tr>
 <tr><td><img src="{{ '/modicons/sketchbook.png' | relative_url }}" alt="" width="32" height="32"></td><td>Sketchbook</td><td>Building and decoration</td></tr>
@@ -51,7 +51,7 @@ lead: Every mod in the pack, grouped by what it does.
 <tr><td><img src="{{ '/modicons/origins_classes.png' | relative_url }}" alt="" width="32" height="32"></td><td>Origins: Classes</td><td>Characters, classes and factions</td></tr>
 <tr><td><img src="{{ '/modicons/skin_changer.png' | relative_url }}" alt="" width="32" height="32"></td><td>Skin Changer</td><td>Characters, classes and factions</td></tr>
 <tr><td><img src="{{ '/modicons/archers.png' | relative_url }}" alt="" width="32" height="32"></td><td>Archers (RPG Series)</td><td>Combat and magic</td></tr>
-<tr><td></td><td>Ars Elixirum</td><td>Combat and magic</td></tr>
+<tr><td><img src="{{ '/modicons/elixirum.png' | relative_url }}" alt="" width="32" height="32"></td><td>Ars Elixirum</td><td>Combat and magic</td></tr>
 <tr><td><img src="{{ '/modicons/arsenal.png' | relative_url }}" alt="" width="32" height="32"></td><td>Arsenal (RPG Series)</td><td>Combat and magic</td></tr>
 <tr><td><img src="{{ '/modicons/bettercombat.png' | relative_url }}" alt="" width="32" height="32"></td><td>Better Combat</td><td>Combat and magic</td></tr>
 <tr><td><img src="{{ '/modicons/combat_roll.png' | relative_url }}" alt="" width="32" height="32"></td><td>Combat Roll</td><td>Combat and magic</td></tr>
@@ -77,7 +77,7 @@ lead: Every mod in the pack, grouped by what it does.
 <tr><td><img src="{{ '/modicons/starcatcher.png' | relative_url }}" alt="" width="32" height="32"></td><td>Starcatcher</td><td>Farming, fishing and food</td></tr>
 <tr><td></td><td>Sweety's Garden</td><td>Farming, fishing and food</td></tr>
 <tr><td><img src="{{ '/modicons/vital_herbs.png' | relative_url }}" alt="" width="32" height="32"></td><td>Vital Herbs</td><td>Farming, fishing and food</td></tr>
-<tr><td></td><td>Additional Jewelry</td><td>Gear, armor and jewelry</td></tr>
+<tr><td><img src="{{ '/modicons/additional_rpg_jewelry.png' | relative_url }}" alt="" width="32" height="32"></td><td>Additional Jewelry</td><td>Gear, armor and jewelry</td></tr>
 <tr><td><img src="{{ '/modicons/armory_rpgs.png' | relative_url }}" alt="" width="32" height="32"></td><td>Armory (RPG Series)</td><td>Gear, armor and jewelry</td></tr>
 <tr><td></td><td>Artificer's Armory</td><td>Gear, armor and jewelry</td></tr>
 <tr><td></td><td>CabaCraft Armor</td><td>Gear, armor and jewelry</td></tr>
@@ -166,7 +166,7 @@ lead: Every mod in the pack, grouped by what it does.
 <tr><td><img src="{{ '/modicons/melody.png' | relative_url }}" alt="" width="32" height="32"></td><td>Melody</td><td>Libraries and loaders</td></tr>
 <tr><td><img src="{{ '/modicons/midnightlib.png' | relative_url }}" alt="" width="32" height="32"></td><td>MidnightLib</td><td>Libraries and loaders</td></tr>
 <tr><td><img src="{{ '/modicons/moonlight.png' | relative_url }}" alt="" width="32" height="32"></td><td>Moonlight Lib</td><td>Libraries and loaders</td></tr>
-<tr><td></td><td>More RPG Library</td><td>Libraries and loaders</td></tr>
+<tr><td><img src="{{ '/modicons/more_rpg_classes.png' | relative_url }}" alt="" width="32" height="32"></td><td>More RPG Library</td><td>Libraries and loaders</td></tr>
 <tr><td></td><td>Necronomicon</td><td>Libraries and loaders</td></tr>
 <tr><td><img src="{{ '/modicons/nexuslib.png' | relative_url }}" alt="" width="32" height="32"></td><td>NexusLib</td><td>Libraries and loaders</td></tr>
 <tr><td><img src="{{ '/modicons/ntgl.png' | relative_url }}" alt="" width="32" height="32"></td><td>NukaTeam's Gun Lib</td><td>Libraries and loaders</td></tr>
@@ -178,7 +178,7 @@ lead: Every mod in the pack, grouped by what it does.
 <tr><td></td><td>Player Animator</td><td>Libraries and loaders</td></tr>
 <tr><td><img src="{{ '/modicons/prickle.png' | relative_url }}" alt="" width="32" height="32"></td><td>PrickleMC</td><td>Libraries and loaders</td></tr>
 <tr><td><img src="{{ '/modicons/puzzleslib.png' | relative_url }}" alt="" width="32" height="32"></td><td>Puzzles Lib</td><td>Libraries and loaders</td></tr>
-<tr><td></td><td>RangedWeaponAPI</td><td>Libraries and loaders</td></tr>
+<tr><td><img src="{{ '/modicons/ranged_weapon_api.png' | relative_url }}" alt="" width="32" height="32"></td><td>RangedWeaponAPI</td><td>Libraries and loaders</td></tr>
 <tr><td><img src="{{ '/modicons/reliable_recipes.png' | relative_url }}" alt="" width="32" height="32"></td><td>Reliable Recipes</td><td>Libraries and loaders</td></tr>
 <tr><td><img src="{{ '/modicons/reliable_remover.png' | relative_url }}" alt="" width="32" height="32"></td><td>Reliable Remover</td><td>Libraries and loaders</td></tr>
 <tr><td><img src="{{ '/modicons/reliable_replacer.png' | relative_url }}" alt="" width="32" height="32"></td><td>Reliable Replacer</td><td>Libraries and loaders</td></tr>
@@ -195,11 +195,11 @@ lead: Every mod in the pack, grouped by what it does.
 <tr><td><img src="{{ '/modicons/structure_pool_api.png' | relative_url }}" alt="" width="32" height="32"></td><td>Structure Pool API</td><td>Libraries and loaders</td></tr>
 <tr><td><img src="{{ '/modicons/surveyor.png' | relative_url }}" alt="" width="32" height="32"></td><td>Surveyor Map Framework</td><td>Libraries and loaders</td></tr>
 <tr><td><img src="{{ '/modicons/terrablender.png' | relative_url }}" alt="" width="32" height="32"></td><td>TerraBlender</td><td>Libraries and loaders</td></tr>
-<tr><td></td><td>TxniLib</td><td>Libraries and loaders</td></tr>
+<tr><td><img src="{{ '/modicons/txnilib.png' | relative_url }}" alt="" width="32" height="32"></td><td>TxniLib</td><td>Libraries and loaders</td></tr>
 <tr><td><img src="{{ '/modicons/yet_another_config_lib_v3.png' | relative_url }}" alt="" width="32" height="32"></td><td>YetAnotherConfigLib</td><td>Libraries and loaders</td></tr>
 <tr><td><img src="{{ '/modicons/yungsapi.png' | relative_url }}" alt="" width="32" height="32"></td><td>YUNG's API</td><td>Libraries and loaders</td></tr>
-<tr><td></td><td>Horseman</td><td>Mobs and animals</td></tr>
-<tr><td></td><td>Hybrid Aquatic</td><td>Mobs and animals</td></tr>
+<tr><td><img src="{{ '/modicons/horseman.png' | relative_url }}" alt="" width="32" height="32"></td><td>Horseman</td><td>Mobs and animals</td></tr>
+<tr><td><img src="{{ '/modicons/hybrid_aquatic.png' | relative_url }}" alt="" width="32" height="32"></td><td>Hybrid Aquatic</td><td>Mobs and animals</td></tr>
 <tr><td><img src="{{ '/modicons/naturalist.png' | relative_url }}" alt="" width="32" height="32"></td><td>Naturalist</td><td>Mobs and animals</td></tr>
 <tr><td><img src="{{ '/modicons/ribbits.png' | relative_url }}" alt="" width="32" height="32"></td><td>Ribbits</td><td>Mobs and animals</td></tr>
 <tr><td><img src="{{ '/modicons/smarterfarmers.png' | relative_url }}" alt="" width="32" height="32"></td><td>Smarter Farmers</td><td>Mobs and animals</td></tr>
@@ -234,12 +234,12 @@ lead: Every mod in the pack, grouped by what it does.
 <tr><td><img src="{{ '/modicons/carryon.png' | relative_url }}" alt="" width="32" height="32"></td><td>Carry On</td><td>Tools and storage</td></tr>
 <tr><td><img src="{{ '/modicons/envelope.png' | relative_url }}" alt="" width="32" height="32"></td><td>Envelope</td><td>Tools and storage</td></tr>
 <tr><td><img src="{{ '/modicons/exposure.png' | relative_url }}" alt="" width="32" height="32"></td><td>Exposure</td><td>Tools and storage</td></tr>
-<tr><td></td><td>Exposure Polaroid</td><td>Tools and storage</td></tr>
+<tr><td><img src="{{ '/modicons/exposure_polaroid.png' | relative_url }}" alt="" width="32" height="32"></td><td>Exposure Polaroid</td><td>Tools and storage</td></tr>
 <tr><td></td><td>Locksmith</td><td>Tools and storage</td></tr>
 <tr><td><img src="{{ '/modicons/monobank.png' | relative_url }}" alt="" width="32" height="32"></td><td>Monobank</td><td>Tools and storage</td></tr>
-<tr><td></td><td>Tempad</td><td>Tools and storage</td></tr>
+<tr><td><img src="{{ '/modicons/tempad.png' | relative_url }}" alt="" width="32" height="32"></td><td>Tempad</td><td>Tools and storage</td></tr>
 <tr><td><img src="{{ '/modicons/toms_storage.png' | relative_url }}" alt="" width="32" height="32"></td><td>Tom's Simple Storage Mod</td><td>Tools and storage</td></tr>
-<tr><td></td><td>3D Hands</td><td>Visuals and sound</td></tr>
+<tr><td><img src="{{ '/modicons/hands_3d.png' | relative_url }}" alt="" width="32" height="32"></td><td>3D Hands</td><td>Visuals and sound</td></tr>
 <tr><td><img src="{{ '/modicons/skinlayers3d.png' | relative_url }}" alt="" width="32" height="32"></td><td>3d-Skin-Layers</td><td>Visuals and sound</td></tr>
 <tr><td><img src="{{ '/modicons/a_good_place.png' | relative_url }}" alt="" width="32" height="32"></td><td>A Good Place</td><td>Visuals and sound</td></tr>
 <tr><td><img src="{{ '/modicons/blur.png' | relative_url }}" alt="" width="32" height="32"></td><td>Blur+</td><td>Visuals and sound</td></tr>
@@ -253,7 +253,7 @@ lead: Every mod in the pack, grouped by what it does.
 <tr><td><img src="{{ '/modicons/iris.png' | relative_url }}" alt="" width="32" height="32"></td><td>Iris</td><td>Visuals and sound</td></tr>
 <tr><td><img src="{{ '/modicons/notenoughanimations.png' | relative_url }}" alt="" width="32" height="32"></td><td>NotEnoughAnimations</td><td>Visuals and sound</td></tr>
 <tr><td><img src="{{ '/modicons/picturemode.png' | relative_url }}" alt="" width="32" height="32"></td><td>Picture Mode</td><td>Visuals and sound</td></tr>
-<tr><td></td><td>Presence Footsteps (NeoForge)</td><td>Visuals and sound</td></tr>
+<tr><td><img src="{{ '/modicons/presencefootsteps.png' | relative_url }}" alt="" width="32" height="32"></td><td>Presence Footsteps (NeoForge)</td><td>Visuals and sound</td></tr>
 <tr><td><img src="{{ '/modicons/sodiumdynamiclights.png' | relative_url }}" alt="" width="32" height="32"></td><td>Sodium Dynamic Lights</td><td>Visuals and sound</td></tr>
 <tr><td><img src="{{ '/modicons/subtleskybox.png' | relative_url }}" alt="" width="32" height="32"></td><td>Subtle Skybox</td><td>Visuals and sound</td></tr>
 <tr><td><img src="{{ '/modicons/vista.png' | relative_url }}" alt="" width="32" height="32"></td><td>Vista</td><td>Visuals and sound</td></tr>
