@@ -385,7 +385,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <img src="{{ '/icons/tailor.png' | relative_url }}" alt="">
     <div>
       <h2>Tailor</h2>
-      <p class="desc">Crafts every hat, robe and other clothing item in the pack.</p>
+      <p class="desc">Crafts the sewing bench, and every hat and garment made on it.</p>
     </div>
   </div>
   <div class="pow">
