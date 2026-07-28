@@ -151,6 +151,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     </div>
   </div>
   <div class="pow">
+    <div><h3>Bearings</h3><p>The propeller bearing and the gyroscopic propeller bearing.</p></div>
     <div><h3>Propellers</h3><p>Wooden, andesite and smart propellers.</p></div>
     <div><h3>Flight Kit</h3><p>The adjustable burner and the aviator's goggles.</p></div>
   </div>
@@ -187,7 +188,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <img src="{{ '/icons/alchemist.png' | relative_url }}" alt="">
     <div>
       <h2>Alchemist</h2>
-      <p class="desc">Crafts the Elixirum brewing bench.</p>
+      <p class="desc">Crafts the Ars Elixirum brewing bench.</p>
     </div>
   </div>
   <div class="pow">
@@ -327,7 +328,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <img src="{{ '/icons/brewer.png' | relative_url }}" alt="">
     <div>
       <h2>Brewer</h2>
-      <p class="desc">Ferments. Brews the beer and keeps the vessel every cider, wine and mead comes out of.</p>
+      <p class="desc">Ferments. Brews every beer in the pack, and every cider, wine and mead comes out of its vessel.</p>
     </div>
   </div>
   <div class="pow">
