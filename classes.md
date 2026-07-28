@@ -6,6 +6,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 
 <article id="combat">
   <div class="head">
+    <img src="{{ '/icons/combat.png' | relative_url }}" alt="">
     <div>
       <h2>Combat</h2>
       <p class="desc">Warrior, Ranger, Mage, Paladin, Rogue, Blacksmith, Gunsmith.</p>
@@ -13,6 +14,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
   </div>
 <article id="warrior">
   <div class="head">
+    <img src="{{ '/icons/warrior.png' | relative_url }}" alt="">
     <div>
       <h2>Warrior</h2>
       <p class="desc">Crafts the plate armor line: the Warrior and Berserker sets and the starter harnesses beneath them.</p>
@@ -26,6 +28,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 </article>
 <article id="ranger">
   <div class="head">
+    <img src="{{ '/icons/ranger.png' | relative_url }}" alt="">
     <div>
       <h2>Ranger</h2>
       <p class="desc">Crafts bows, crossbows, muskets, and the ranged armor line.</p>
@@ -41,6 +44,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 </article>
 <article id="mage">
   <div class="head">
+    <img src="{{ '/icons/mage.png' | relative_url }}" alt="">
     <div>
       <h2>Mage</h2>
       <p class="desc">Crafts staves, wands, and the robe lines for arcane, fire, frost and general magic.</p>
@@ -56,6 +60,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 </article>
 <article id="paladin">
   <div class="head">
+    <img src="{{ '/icons/paladin.png' | relative_url }}" alt="">
     <div>
       <h2>Paladin</h2>
       <p class="desc">Crafts holy wands and staves, kite shields, the Paladin plate line, and the Priest robe line.</p>
@@ -72,6 +77,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 </article>
 <article id="rogue">
   <div class="head">
+    <img src="{{ '/icons/rogue.png' | relative_url }}" alt="">
     <div>
       <h2>Rogue</h2>
       <p class="desc">Crafts the light armor line, which trades armor for evasion and attack speed.</p>
@@ -85,6 +91,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 </article>
 <article id="blacksmith">
   <div class="head">
+    <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
     <div>
       <h2>Blacksmith</h2>
       <p class="desc">Crafts every melee weapon in the pack. Sits under Combat and Creation.</p>
@@ -99,6 +106,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 </article>
 <article id="gunsmith">
   <div class="head">
+    <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
     <div>
       <h2>Gunsmith</h2>
       <p class="desc">Crafts every gun and cannon in the pack, muskets excepted. Sits under Combat and Innovation.</p>
@@ -113,6 +121,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 
 <article id="innovation">
   <div class="head">
+    <img src="{{ '/icons/innovation.png' | relative_url }}" alt="">
     <div>
       <h2>Innovation</h2>
       <p class="desc">Engineer, Machinist, Gunsmith, Originator, Alchemist, Enchanter.</p>
@@ -120,6 +129,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
   </div>
 <article id="engineer">
   <div class="head">
+    <img src="{{ '/icons/engineer.png' | relative_url }}" alt="">
     <div>
       <h2>Engineer</h2>
       <p class="desc">Crafts Create's machinery: kinetics, processing and automation.</p>
@@ -134,6 +144,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 </article>
 <article id="machinist">
   <div class="head">
+    <img src="{{ '/icons/machinist.png' | relative_url }}" alt="">
     <div>
       <h2>Machinist</h2>
       <p class="desc">Crafts Create: Aeronautics propellers, bearings and flight gear.</p>
@@ -146,6 +157,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 </article>
 <article id="gunsmith">
   <div class="head">
+    <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
     <div>
       <h2>Gunsmith</h2>
       <p class="desc">Crafts every gun and cannon in the pack, muskets excepted. Sits under Combat and Innovation.</p>
@@ -158,6 +170,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 </article>
 <article id="originator">
   <div class="head">
+    <img src="{{ '/icons/originator.png' | relative_url }}" alt="">
     <div>
       <h2>Originator</h2>
       <p class="desc">Crafts Oritech power: generators, batteries and machine bodies.</p>
@@ -171,6 +184,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 </article>
 <article id="alchemist">
   <div class="head">
+    <img src="{{ '/icons/alchemist.png' | relative_url }}" alt="">
     <div>
       <h2>Alchemist</h2>
       <p class="desc">Crafts the Elixirum brewing bench.</p>
@@ -183,6 +197,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 </article>
 <article id="enchanter">
   <div class="head">
+    <img src="{{ '/icons/enchanter.png' | relative_url }}" alt="">
     <div>
       <h2>Enchanter</h2>
       <p class="desc">Enchants one level above the world's cap, and alone crafts Ancient Books.</p>
@@ -197,6 +212,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 
 <article id="creation">
   <div class="head">
+    <img src="{{ '/icons/creation.png' | relative_url }}" alt="">
     <div>
       <h2>Creation</h2>
       <p class="desc">Builder, Blacksmith, Jeweler, Cook.</p>
@@ -204,6 +220,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
   </div>
 <article id="builder">
   <div class="head">
+    <img src="{{ '/icons/builder.png' | relative_url }}" alt="">
     <div>
       <h2>Builder</h2>
       <p class="desc">Crafts every Chipped workstation, and through them every block Chipped adds.</p>
@@ -216,6 +233,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 </article>
 <article id="blacksmith">
   <div class="head">
+    <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
     <div>
       <h2>Blacksmith</h2>
       <p class="desc">Crafts every melee weapon in the pack. Sits under Combat and Creation.</p>
@@ -230,6 +248,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 </article>
 <article id="jeweler">
   <div class="head">
+    <img src="{{ '/icons/jeweler.png' | relative_url }}" alt="">
     <div>
       <h2>Jeweler</h2>
       <p class="desc">Crafts rings and necklaces, worn in accessory slots rather than armor slots.</p>
@@ -243,6 +262,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 </article>
 <article id="cook">
   <div class="head">
+    <img src="{{ '/icons/cook.png' | relative_url }}" alt="">
     <div>
       <h2>Cook</h2>
       <p class="desc">Cooks every prepared dish Bountiful Fares and Farmer's Delight add, and builds the kitchen the rest of the pack's cooking runs through. Food is health here.</p>
@@ -261,6 +281,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 <h2>Specialization</h2>
 <article id="angler">
   <div class="head">
+    <img src="{{ '/icons/angler.png' | relative_url }}" alt="">
     <div>
       <h2>Angler</h2>
       <p class="desc">Crafts Starcatcher rods and tackle.</p>
@@ -276,6 +297,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 
 <article id="archaeologist">
   <div class="head">
+    <img src="{{ '/icons/archaeologist.png' | relative_url }}" alt="">
     <div>
       <h2>Archaeologist</h2>
       <p class="desc">Crafts the excavation tools for both dig systems.</p>
@@ -288,6 +310,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 
 <article id="bard">
   <div class="head">
+    <img src="{{ '/icons/bard.png' | relative_url }}" alt="">
     <div>
       <h2>Bard</h2>
       <p class="desc">Crafts every Immersive Melodies instrument, and is the only role a villager will follow.</p>
@@ -301,6 +324,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 
 <article id="brewer">
   <div class="head">
+    <img src="{{ '/icons/brewer.png' | relative_url }}" alt="">
     <div>
       <h2>Brewer</h2>
       <p class="desc">Ferments. Brews the beer and keeps the vessel every cider, wine and mead comes out of.</p>
@@ -315,6 +339,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 
 <article id="curator">
   <div class="head">
+    <img src="{{ '/icons/curator.png' | relative_url }}" alt="">
     <div>
       <h2>Curator</h2>
       <p class="desc">Crafts Exposure cameras, the bestiary, the antique atlas and the diary.</p>
@@ -328,6 +353,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 
 <article id="herbalist">
   <div class="head">
+    <img src="{{ '/icons/herbalist.png' | relative_url }}" alt="">
     <div>
       <h2>Herbalist</h2>
       <p class="desc">Crafts hemp goods and Vital Herbs remedies.</p>
@@ -342,6 +368,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 
 <article id="shipwright">
   <div class="head">
+    <img src="{{ '/icons/shipwright.png' | relative_url }}" alt="">
     <div>
       <h2>Shipwright</h2>
       <p class="desc">Crafts the Shippy Ships ship builders.</p>
@@ -354,6 +381,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
 
 <article id="tailor">
   <div class="head">
+    <img src="{{ '/icons/tailor.png' | relative_url }}" alt="">
     <div>
       <h2>Tailor</h2>
       <p class="desc">Crafts every hat, robe and other clothing item in the pack.</p>

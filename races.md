@@ -251,6 +251,7 @@ lead: The eleven races a character can be. Each one sets your body, your skin, a
   </div>
 <article id="human_tough">
   <div class="head">
+    <img src="{{ '/icons/human_tough.png' | relative_url }}" alt="">
     <div>
       <h2>Tough</h2>
       <p class="desc">Human trait. +2 hearts of maximum health.</p>
@@ -262,6 +263,7 @@ lead: The eleven races a character can be. Each one sets your body, your skin, a
 </article>
 <article id="human_quick">
   <div class="head">
+    <img src="{{ '/icons/human_quick.png' | relative_url }}" alt="">
     <div>
       <h2>Quick</h2>
       <p class="desc">Human trait. +5% movement speed.</p>
@@ -273,6 +275,7 @@ lead: The eleven races a character can be. Each one sets your body, your skin, a
 </article>
 <article id="human_reach">
   <div class="head">
+    <img src="{{ '/icons/human_reach.png' | relative_url }}" alt="">
     <div>
       <h2>Long Reach</h2>
       <p class="desc">Human trait. +1 block of reach on blocks. Combat reach is unchanged.</p>
@@ -284,6 +287,7 @@ lead: The eleven races a character can be. Each one sets your body, your skin, a
 </article>
 <article id="human_surefooted">
   <div class="head">
+    <img src="{{ '/icons/human_surefooted.png' | relative_url }}" alt="">
     <div>
       <h2>Sure-Footed</h2>
       <p class="desc">Human trait. -60% fall damage.</p>
@@ -295,6 +299,7 @@ lead: The eleven races a character can be. Each one sets your body, your skin, a
 </article>
 <article id="human_strongarm">
   <div class="head">
+    <img src="{{ '/icons/human_strongarm.png' | relative_url }}" alt="">
     <div>
       <h2>Strong Arm</h2>
       <p class="desc">Human trait. +1 attack damage.</p>
@@ -306,6 +311,7 @@ lead: The eleven races a character can be. Each one sets your body, your skin, a
 </article>
 <article id="human_steadyaim">
   <div class="head">
+    <img src="{{ '/icons/human_steadyaim.png' | relative_url }}" alt="">
     <div>
       <h2>Steady Aim</h2>
       <p class="desc">Human trait. +8% bow and crossbow damage.</p>
