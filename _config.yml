@@ -1,0 +1,24 @@
+# CabaCraft wiki. GitHub Pages builds this with Jekyll; there is no local build step.
+title: CabaCraft
+description: The player wiki for CabaCraft, a DnD-flavored Minecraft server pack.
+
+# Navigation order is Carson's, set 2026-07-28. Every page uses it; nothing else defines nav.
+nav:
+  - name: Home
+    url: /
+  - name: Races
+    url: /races/
+  - name: Classes
+    url: /classes/
+  - name: Factions
+    url: /factions/
+  - name: World Generation
+    url: /worldgen/
+  - name: Mods
+    url: /mods/
+
+defaults:
+  - scope: { path: "" }
+    values: { layout: default }
+
+exclude: [README.md]

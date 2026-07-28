@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }} - CabaCraft</title>
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+<nav>
+  <div class="wrap">
+    <div class="mark"><a href="{{ '/' | relative_url }}">CabaCraft</a></div>
+    <ul>
+      {%- for item in site.nav %}
+      <li><a href="{{ item.url | relative_url }}"
+        {%- if page.url == item.url %} aria-current="page"{% endif %}>{{ item.name }}</a></li>
+      {%- endfor %}
+    </ul>
+  </div>
+</nav>
+
+<header>
+  <div class="wrap">
+    <h1>{{ page.title }}</h1>
+    {%- if page.lead %}
+    <p class="lead">{{ page.lead }}</p>
+    {%- endif %}
+  </div>
+</header>
+
+<main class="wrap">
+{{ content }}
+</main>
+
+{%- if page.tail %}
+<footer class="wrap">{{ page.tail }}</footer>
+{%- endif %}
+</body>
+</html>
