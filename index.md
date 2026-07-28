@@ -4,8 +4,11 @@ permalink: /
 lead: A DnD-flavored Minecraft server pack. 263 mods on NeoForge for Minecraft 1.21.1.
 ---
 
-<article id="character">
+<article id="lineup">
   <img src="{{ '/assets/races-lineup.png' | relative_url }}" alt="The eleven races">
+</article>
+
+<article id="character">
   <div class="head">
     <div>
       <h2>Making a character</h2>
