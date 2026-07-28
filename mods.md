@@ -19,9 +19,9 @@ lead: Every mod in the pack, grouped by what it does.
 <tr><td>HopoBetterMineshaft</td><td>Adventure and structures</td></tr>
 <tr><td>HopoBetterRuinedPortals</td><td>Adventure and structures</td></tr>
 <tr><td>HopoBetterUnderwaterRuins</td><td>Adventure and structures</td></tr>
-<tr><td>L_Ender's Cataclysm 1.21.1</td><td>Adventure and structures</td></tr>
-<tr><td>Lootintegrations mod</td><td>Adventure and structures</td></tr>
-<tr><td>lootintegrations_betterarcheology mod</td><td>Adventure and structures</td></tr>
+<tr><td>L_Ender's Cataclysm</td><td>Adventure and structures</td></tr>
+<tr><td>Lootintegrations</td><td>Adventure and structures</td></tr>
+<tr><td>Lootintegrations: Better Archeology</td><td>Adventure and structures</td></tr>
 <tr><td>Lootr</td><td>Adventure and structures</td></tr>
 <tr><td>Luki's Ancient Cities</td><td>Adventure and structures</td></tr>
 <tr><td>Luki's Crazy Chambers</td><td>Adventure and structures</td></tr>
@@ -141,7 +141,7 @@ lead: Every mod in the pack, grouped by what it does.
 <tr><td>Caelus API</td><td>Libraries and loaders</td></tr>
 <tr><td>Cloth Config v15 API</td><td>Libraries and loaders</td></tr>
 <tr><td>Common Networking</td><td>Libraries and loaders</td></tr>
-<tr><td>Cupboard mod</td><td>Libraries and loaders</td></tr>
+<tr><td>Cupboard</td><td>Libraries and loaders</td></tr>
 <tr><td>Curios API</td><td>Libraries and loaders</td></tr>
 <tr><td>EZ Balance</td><td>Libraries and loaders</td></tr>
 <tr><td>FDLib</td><td>Libraries and loaders</td></tr>
@@ -159,7 +159,7 @@ lead: Every mod in the pack, grouped by what it does.
 <tr><td>Kotlin for Forge</td><td>Libraries and loaders</td></tr>
 <tr><td>KubeJS</td><td>Libraries and loaders</td></tr>
 <tr><td>KubeJS Create</td><td>Libraries and loaders</td></tr>
-<tr><td>lionfishapi</td><td>Libraries and loaders</td></tr>
+<tr><td>LionfishAPI</td><td>Libraries and loaders</td></tr>
 <tr><td>Lithostitched</td><td>Libraries and loaders</td></tr>
 <tr><td>MariesLib</td><td>Libraries and loaders</td></tr>
 <tr><td>MaxHealthFix</td><td>Libraries and loaders</td></tr>

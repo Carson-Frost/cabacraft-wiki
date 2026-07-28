@@ -15,7 +15,7 @@ lead: A DnD-flavored Minecraft server pack. Pick a race, then a Path, a Class, a
   <div class="pow">
     <div><h3>Nobody crafts everything</h3><p>Recipes belong to roles. A Blacksmith makes the swords, a Cook makes the meals, an Alchemist makes the potions, and what you cannot make yourself you get from the player who can.</p></div>
     <div><h3>Your race is visible</h3><p>Picking a race changes your skin in world, so the people around you can see what you are before you say a word.</p></div>
-    <div><h3>Hundreds of mods, one game</h3><p>The pack is tuned so its mods sit together rather than stack on top of each other: shared materials, one accessory screen, and a single armor ladder across all of them. The <a href="{{ '/mods/' | relative_url }}">mod list</a> has every one.</p></div>
+    <div><h3>Hundreds of mods, one game</h3><p>The pack is tuned so its mods sit together rather than stack on top of each other: shared materials, one accessory screen, and a single armor ladder across all of them. The Mods page lists every one.</p></div>
   </div>
 </article>
 
@@ -27,10 +27,10 @@ lead: A DnD-flavored Minecraft server pack. Pick a race, then a Path, a Class, a
     </div>
   </div>
   <div class="pow">
-    <div><h3>Race</h3><p>Eleven to choose from, each with its own body, skin and powers. See <a href="{{ '/races/' | relative_url }}">Races</a>.</p></div>
+    <div><h3>Race</h3><p>Eleven to choose from, each with its own body, skin and powers, all on the Races page.</p></div>
     <div><h3>Elf Lineage or Human Trait</h3><p>An Elf picks a lineage and a Human picks a trait. Every other race skips this screen.</p></div>
     <div><h3>Path</h3><p>Combat, Innovation or Creation. Your Path decides which Classes you are offered next.</p></div>
-    <div><h3>Class</h3><p>The role you craft as, drawn from your Path. See <a href="{{ '/classes/' | relative_url }}">Classes</a>.</p></div>
+    <div><h3>Class</h3><p>The role you craft as, drawn from your Path. The Classes page has all fifteen.</p></div>
     <div><h3>Specialization</h3><p>A second, smaller craft on top of your Class, offered to everyone whatever Path they took.</p></div>
   </div>
 </article>
