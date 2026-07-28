@@ -1,7 +1,7 @@
 ---
 title: CabaCraft
 permalink: /
-lead: A DnD-flavored Minecraft server pack. 263 mods on NeoForge for Minecraft 1.21.1.
+lead: A 263-mod Minecraft modpack for NeoForge 1.21.1. Every character picks a race and a class, and the class decides what you can craft.
 ---
 
 <article id="lineup">
@@ -33,10 +33,10 @@ lead: A DnD-flavored Minecraft server pack. 263 mods on NeoForge for Minecraft 1
   </div>
   <div class="pow">
     <div><h3>Gated crafting</h3><p>Most recipes belong to one role. You craft what your Class and Specialization unlock and trade for the rest.</p></div>
-    <div><h3>Food heals</h3><p>No hunger bar. Eaten food fills timed slots and heals you while they last. Max health stays at ten hearts.</p></div>
-    <div><h3>Potions</h3><p>Vanilla brewing is gone. Ars Elixirum replaces it, and its apparatus is crafted by the Alchemist.</p></div>
-    <div><h3>Enchanting</h3><p>Thirty-three enchantments are capped, most at II. Mending is not in the game.</p></div>
-    <div><h3>Temperature</h3><p>Cold Sweat is active. Biome, weather, time of day and worn armor all move your body temperature, and both extremes hurt.</p></div>
-    <div><h3>No totems</h3><p>Every totem is removed, the vanilla Totem of Undying included.</p></div>
+    <div><h3>Food heals</h3><p>There is no hunger bar. Each food you eat fills a slot for three minutes and you regenerate only while a slot is filled. Food never raises your max health, and an empty slot stops the healing rather than hurting you.</p></div>
+    <div><h3>Potions</h3><p>Vanilla brewing is gone and Ars Elixirum replaces it. Only an Alchemist can work a brewing stand or a glass cauldron, so every potion in the world was made by one.</p></div>
+    <div><h3>Enchanting</h3><p>Thirty-three enchantments are capped, most of them at II. Protection II on a full set cuts 32% of incoming damage where vanilla's Protection IV cuts 64%. Mending is not in the game.</p></div>
+    <div><h3>Temperature</h3><p>Your body has a temperature. Biome, weather, time of day and the armor you wear all move it, and you take damage at either extreme.</p></div>
+    <div><h3>No totems</h3><p>Every totem is out of the game, the vanilla Totem of Undying included.</p></div>
   </div>
 </article>

@@ -98,6 +98,11 @@ table { border-collapse: collapse; width: 100%; font-size: 15px; }
 th, td { text-align: left; padding: 8px 14px 8px 0; border-bottom: 1px solid var(--rule); }
 th { font-weight: 600; }
 .scroll { overflow-x: auto; }
+/* A link inside a table carries a rule under it, because a body link carries no mark at all
+   and a link nobody can see is worse than none. No hue: it is the rule colour already here. */
+td a { text-decoration: underline; text-underline-offset: 3px;
+       text-decoration-color: var(--rule); }
+td a:hover { text-decoration-color: var(--ink); }
 
 footer { padding: 22px 0 70px; color: var(--soft); font-size: 14.5px; }
 

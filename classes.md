@@ -23,7 +23,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
   <div class="pow">
     <div><h3>Warplate</h3><p>The Warrior and Berserker sets.</p></div>
     <div><h3>Field Harness</h3><p>Ironclad and Brawler. Ironclad takes a movement penalty for its extra plate.</p></div>
-    <div><h3>Weapon Master</h3><p>A Warrior hits harder with any weapon in hand than anyone else who picks it up.</p></div>
+    <div><h3>Weapon Master</h3><p>5% more melee damage than any other Class, with any weapon.</p></div>
   </div>
 </article>
 <article id="ranger">
@@ -39,7 +39,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Black Powder</h3><p>Muskets, pistols, the blunderbuss, and their cartridges and upgrade template.</p></div>
     <div><h3>Ranged Leathers</h3><p>The Archer and Ranger sets.</p></div>
     <div><h3>Field Kit</h3><p>The quiver and the auto-fire hook.</p></div>
-    <div><h3>Marksman</h3><p>A Ranger draws more out of a bow or a crossbow than anyone else shooting the same one.</p></div>
+    <div><h3>Marksman</h3><p>5% more damage from any bow or crossbow than any other Class.</p></div>
   </div>
 </article>
 <article id="mage">
@@ -55,7 +55,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Wands</h3><p>The novice, arcane, fire and frost wands.</p></div>
     <div><h3>School Robes</h3><p>The arcane, fire and frost robes.</p></div>
     <div><h3>Wizard's Robes</h3><p>The general Wizard Robe and the Immersive Robe.</p></div>
-    <div><h3>Arcane Focus</h3><p>A Mage's spells land heavier than the same spell cast by anyone else.</p></div>
+    <div><h3>Arcane Focus</h3><p>5% more spell power than any other Class.</p></div>
   </div>
 </article>
 <article id="paladin">
@@ -72,7 +72,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Kite Shields</h3><p>Kite shields in iron, gold and diamond.</p></div>
     <div><h3>Consecrated Plate</h3><p>The Paladin, Crusader, Justicar and Divine sets.</p></div>
     <div><h3>Vestments</h3><p>The Priest and Prior robes.</p></div>
-    <div><h3>Laying On Hands</h3><p>A Paladin heals for more than anyone else casting the same thing.</p></div>
+    <div><h3>Laying On Hands</h3><p>5% more healing than any other Class.</p></div>
   </div>
 </article>
 <article id="rogue">
@@ -86,7 +86,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
   <div class="pow">
     <div><h3>Shadowweave</h3><p>The Rogue and Assassin sets.</p></div>
     <div><h3>Light Mail</h3><p>Lucky's light iron, gold and diamond pieces.</p></div>
-    <div><h3>Combat Roll</h3><p>Only a Rogue has the footwork to combat roll.</p></div>
+    <div><h3>Combat Roll</h3><p>Only a Rogue can combat roll.</p></div>
   </div>
 </article>
 <article id="blacksmith">
@@ -291,7 +291,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Rods</h3><p>The bamboo and azure crystal rods.</p></div>
     <div><h3>Tackle</h3><p>The copper and amethyst hooks and the bobber.</p></div>
     <div><h3>The Guide</h3><p>The Starcatcher guide, granted on selection.</p></div>
-    <div><h3>Steady Hands</h3><p>An Angler works a rod better than anyone else: the catch bar drains slower, a miss costs less, the score comes quicker and a sweet spot lingers.</p></div>
+    <div><h3>Steady Hands</h3><p>The fishing minigame is at its easiest in an Angler's hands: the catch bar drains slower, a miss costs less, the score comes quicker, and a sweet spot lingers.</p></div>
   </div>
 </article>
 
