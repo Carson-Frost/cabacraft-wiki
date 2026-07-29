@@ -23,12 +23,8 @@ intro: >-
     <img src="{{ '/icons/warrior.png' | relative_url }}" alt="">
     <div>
       <h2>Warrior</h2>
-      <p class="desc">Melee-combat with strong defense. Gates all Warrior class armor sets and gets a melee damage boost.</p>
+      <p class="desc">The heavy melee fighter. Crafts the Warrior armor line, the pack's plate from the starter harnesses up to the elite sets. Deals 5% more melee damage.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Warrior Armor</h3><p>Ability to craft all Warrior class armor sets, the Ironclad and Brawler harnesses and the Warrior and Berserker plate above them.</p></div>
-    <div><h3>Weapon Master</h3><p>An additional 5% melee damage boost.</p></div>
   </div>
 </article>
 
@@ -37,13 +33,8 @@ intro: >-
     <img src="{{ '/icons/ranger.png' | relative_url }}" alt="">
     <div>
       <h2>Ranger</h2>
-      <p class="desc">Ranged combat at a distance. Rangers gate every ranged weapon in the pack and the two light armor lines made to shoot in, and get a ranged damage boost.</p>
+      <p class="desc">The ranged fighter. Crafts every bow, crossbow and musket in the pack, along with the Ranger armor line. Deals 5% more ranged damage.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Ranged Weapons</h3><p>Every ranged weapon: longbows, crossbows, muskets and pistols, with the quiver and the auto-fire hook.</p></div>
-    <div><h3>Ranger Armor</h3><p>The Archer and Ranger leathers, light enough to shoot in.</p></div>
-    <div><h3>Marksman</h3><p>+5% ranged damage.</p></div>
   </div>
 </article>
 
@@ -52,13 +43,8 @@ intro: >-
     <img src="{{ '/icons/mage.png' | relative_url }}" alt="">
     <div>
       <h2>Mage</h2>
-      <p class="desc">Spellcasting at a distance. Mages gate every staff, wand and robe across the novice, wizard, arcane, fire and frost schools, and get a spell power boost.</p>
+      <p class="desc">The spellcaster. Crafts every staff and wand across the five schools, along with the robes of all four magic lines. Deals 5% more spell damage.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Staves and Wands</h3><p>Every staff and wand, across the novice, wizard, arcane, fire and frost schools.</p></div>
-    <div><h3>Mage Robes</h3><p>All Mage class robes: one set per school, plus two that suit any of them.</p></div>
-    <div><h3>Arcane Focus</h3><p>+5% spell power.</p></div>
   </div>
 </article>
 
@@ -67,13 +53,8 @@ intro: >-
     <img src="{{ '/icons/paladin.png' | relative_url }}" alt="">
     <div>
       <h2>Paladin</h2>
-      <p class="desc">Healing and holy combat. Paladins gate the monk's workbench and everything made on it, along with the Paladin plate and the Priest robes, and get a healing boost.</p>
+      <p class="desc">The healer and holy fighter. Crafts the monk's workbench and the holy wands, staves and shields made on it, along with the Paladin and Priest armor lines. Heals 5% more.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Holy Gear</h3><p>The monk's workbench, and the holy wands, staves and kite shields made on it.</p></div>
-    <div><h3>Paladin Armor</h3><p>All Paladin class armor sets: the Paladin plate line and the Priest robes beside it.</p></div>
-    <div><h3>Laying On Hands</h3><p>+5% healing.</p></div>
   </div>
 </article>
 
@@ -82,12 +63,8 @@ intro: >-
     <img src="{{ '/icons/rogue.png' | relative_url }}" alt="">
     <div>
       <h2>Rogue</h2>
-      <p class="desc">Fast, lightly armored melee. Rogues gate the armor that trades protection for evasion and attack speed, and can combat roll.</p>
+      <p class="desc">The fast, lightly armored fighter. Crafts the Rogue armor line, which trades protection for evasion and attack speed. Can dodge with a combat roll.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Rogue Armor</h3><p>All Rogue class armor sets: the Rogue and Assassin leathers, and the light mail under them.</p></div>
-    <div><h3>Combat Roll</h3><p>Performs a combat roll.</p></div>
   </div>
 </article>
 
@@ -96,11 +73,8 @@ intro: >-
     <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
     <div>
       <h2>Blacksmith</h2>
-      <p class="desc">Weaponsmithing. Blacksmiths gate the bladed, blunt and reach weapon lines up to the aeternium blades, though vanilla's swords and axes stay open to everyone. Offered under both the Combat and the Creation Path.</p>
+      <p class="desc">The weaponsmith. Crafts the pack's bladed, blunt and reach weapon lines, up to the aeternium blades. Offered under both the Combat and the Creation Path.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Melee Weapons</h3><p>Every bladed, blunt and reach weapon: claymores and daggers, maces and spears, up to the aeternium blades.</p></div>
   </div>
 </article>
 
@@ -109,12 +83,8 @@ intro: >-
     <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
     <div>
       <h2>Gunsmith</h2>
-      <p class="desc">Firearms and artillery. Gunsmiths gate every gun and cannon except the muskets, which belong to the Ranger. Offered under both the Combat and the Innovation Path.</p>
+      <p class="desc">The gunmaker. Crafts every firearm and cannon in the pack, along with the gear that mounts, aims and loads them. Offered under both the Combat and the Innovation Path.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Firearms</h3><p>All firearms: the revolver, shotgun, nailgun and blazegun.</p></div>
-    <div><h3>Cannonry</h3><p>Every cannon, and the gear that mounts, aims and loads it.</p></div>
   </div>
 </article>
 
@@ -126,11 +96,8 @@ intro: >-
     <img src="{{ '/icons/engineer.png' | relative_url }}" alt="">
     <div>
       <h2>Engineer</h2>
-      <p class="desc">Mechanical automation. Engineers gate all of Create's machinery, from the shafts and gearboxes that carry power to the machines that run on it, but hold no combat bonus of any kind.</p>
+      <p class="desc">The automation builder. Crafts all of Create's machinery, from the shafts and gearboxes that carry power to the machines that run on it.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Create Machinery</h3><p>All Create machinery: the power train, the processing machines, the automation blocks, and the Engineer's wrench and goggles.</p></div>
   </div>
 </article>
 
@@ -139,11 +106,8 @@ intro: >-
     <img src="{{ '/icons/machinist.png' | relative_url }}" alt="">
     <div>
       <h2>Machinist</h2>
-      <p class="desc">Powered flight. Machinists gate every airship part, though a ship will not move without an Engineer's power train.</p>
+      <p class="desc">The airship builder. Crafts every airship part, though a ship needs an Engineer's power train before it will move.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Airship Parts</h3><p>Every airship part: the bearings a ship turns on, its propellers, and the pilot's burner and goggles.</p></div>
   </div>
 </article>
 
@@ -152,12 +116,8 @@ intro: >-
     <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
     <div>
       <h2>Gunsmith</h2>
-      <p class="desc">Firearms and artillery. Gunsmiths gate every gun and cannon except the muskets, which belong to the Ranger. Offered under both the Combat and the Innovation Path.</p>
+      <p class="desc">The gunmaker. Crafts every firearm and cannon in the pack, along with the gear that mounts, aims and loads them. Offered under both the Combat and the Innovation Path.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Firearms</h3><p>All firearms: the revolver, shotgun, nailgun and blazegun.</p></div>
-    <div><h3>Cannonry</h3><p>Every cannon, and the gear that mounts, aims and loads it.</p></div>
   </div>
 </article>
 
@@ -166,11 +126,8 @@ intro: >-
     <img src="{{ '/icons/originator.png' | relative_url }}" alt="">
     <div>
       <h2>Originator</h2>
-      <p class="desc">Electrical power. Originators gate Oritech's generators, batteries and wiring, and the frames and cores every Oritech machine is built on.</p>
+      <p class="desc">The power generator. Crafts Oritech's generators, batteries and wiring, and the frames and cores its machines are built on.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Oritech Power</h3><p>All generators, batteries and wiring, with the frames and cores that carry every Oritech machine.</p></div>
   </div>
 </article>
 
@@ -179,12 +136,8 @@ intro: >-
     <img src="{{ '/icons/alchemist.png' | relative_url }}" alt="">
     <div>
       <h2>Alchemist</h2>
-      <p class="desc">Potion brewing. Alchemists gate the brewing stations and the brewing itself, and their own elixirs run longer.</p>
+      <p class="desc">The potion brewer. Crafts the brewing stations and works the brewing stand and glass cauldron, which is where every potion in the pack comes from. Their own elixirs run longer and hostile ones wear off faster.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Brewing Stations</h3><p>All brewing stations: the brewing bench, glass cauldron, alchemist's eye and potion shelf.</p></div>
-    <div><h3>Potion Mastery</h3><p>Brewing stands and glass cauldrons operate for Alchemists. +10 potion mastery and +10 potion immunity, so their elixirs run longer and hostile ones wear off faster.</p></div>
   </div>
 </article>
 
@@ -193,12 +146,8 @@ intro: >-
     <img src="{{ '/icons/enchanter.png' | relative_url }}" alt="">
     <div>
       <h2>Enchanter</h2>
-      <p class="desc">Enchanting past the world's limits. Every enchantment in the pack is capped, and an Enchanter goes one level beyond the cap.</p>
+      <p class="desc">The enchanter. Crafts the Ancient Book, and enchants one level past the cap that every enchantment in the pack carries.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Ancient Books</h3><p>The Ancient Book.</p></div>
-    <div><h3>Enchant Mastery</h3><p>+1 level on all 33 capped enchantments.</p></div>
   </div>
 </article>
 
@@ -210,12 +159,8 @@ intro: >-
     <img src="{{ '/icons/builder.png' | relative_url }}" alt="">
     <div>
       <h2>Builder</h2>
-      <p class="desc">Building at scale. Builders gate the eight workstations that cut every decorative block variant, and reach half a block further to place and break.</p>
+      <p class="desc">The large-scale builder. Crafts the eight Chipped workstations and cuts every decorative block variant on them. Reaches half a block further to place and break.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Workstations</h3><p>All eight Chipped workstations, and every block variant cut on them.</p></div>
-    <div><h3>Long Arm</h3><p>+0.5 blocks of range for placing and breaking. Combat reach is unchanged.</p></div>
   </div>
 </article>
 
@@ -224,11 +169,8 @@ intro: >-
     <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
     <div>
       <h2>Blacksmith</h2>
-      <p class="desc">Weaponsmithing. Blacksmiths gate the bladed, blunt and reach weapon lines up to the aeternium blades, though vanilla's swords and axes stay open to everyone. Offered under both the Combat and the Creation Path.</p>
+      <p class="desc">The weaponsmith. Crafts the pack's bladed, blunt and reach weapon lines, up to the aeternium blades. Offered under both the Combat and the Creation Path.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Melee Weapons</h3><p>Every bladed, blunt and reach weapon: claymores and daggers, maces and spears, up to the aeternium blades.</p></div>
   </div>
 </article>
 
@@ -237,11 +179,8 @@ intro: >-
     <img src="{{ '/icons/jeweler.png' | relative_url }}" alt="">
     <div>
       <h2>Jeweler</h2>
-      <p class="desc">Accessory crafting. Jewelers gate every ring and necklace, worn in accessory slots alongside armor rather than instead of it.</p>
+      <p class="desc">The accessory maker. Crafts the jeweler's kit and every ring and necklace made on it, which are worn alongside armor rather than instead of it.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Jewelry</h3><p>The jeweler's kit, and every jade and tanzanite ring and necklace made on it.</p></div>
   </div>
 </article>
 
@@ -250,12 +189,8 @@ intro: >-
     <img src="{{ '/icons/cook.png' | relative_url }}" alt="">
     <div>
       <h2>Cook</h2>
-      <p class="desc">Cooking, which carries more weight here than in vanilla because food is what restores health. Cooks gate every prepared dish and every kitchen station it is made on.</p>
+      <p class="desc">The cook. Crafts every prepared dish in the pack and every kitchen station they are made on, which matters because food is what restores health here.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Kitchen Stations</h3><p>Every kitchen station, and the pot dishes that carry no recipe of their own.</p></div>
-    <div><h3>Prepared Food</h3><p>Every prepared dish: breads and pies, stews and roasts, and the feasts a whole table shares.</p></div>
   </div>
 </article>
 
@@ -266,13 +201,8 @@ intro: >-
     <img src="{{ '/icons/angler.png' | relative_url }}" alt="">
     <div>
       <h2>Angler</h2>
-      <p class="desc">Fishing. Anglers gate every rod, hook and bobber, and the fishing minigame runs easier in their hands.</p>
+      <p class="desc">The fisher. Crafts every rod, hook and bobber in the pack. The fishing minigame runs slower and more forgivingly.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Rods and Tackle</h3><p>Every rod, hook and bobber, up to the azure crystal rod and the amethyst hook.</p></div>
-    <div><h3>Starcatcher Guide</h3><p>The Starcatcher guide, granted on picking the specialization.</p></div>
-    <div><h3>Steady Hands</h3><p>The fishing minigame runs easier: the bar drains slower, a miss costs less, score accrues quicker, and a sweet spot lingers.</p></div>
   </div>
 </article>
 
@@ -281,11 +211,8 @@ intro: >-
     <img src="{{ '/icons/archaeologist.png' | relative_url }}" alt="">
     <div>
       <h2>Archaeologist</h2>
-      <p class="desc">Excavation. Archaeologists gate the tools both of the pack's digging systems need, and carry no bonus to any stat.</p>
+      <p class="desc">The excavator. Crafts the tools that both of the pack's digging systems need.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Excavation Tools</h3><p>Every excavation tool: the diamond brush, and the rusty pickaxe and shovel.</p></div>
   </div>
 </article>
 
@@ -294,12 +221,8 @@ intro: >-
     <img src="{{ '/icons/bard.png' | relative_url }}" alt="">
     <div>
       <h2>Bard</h2>
-      <p class="desc">Music and recruitment. Bards gate every instrument and hire villagers into service.</p>
+      <p class="desc">The musician. Crafts every instrument in the pack, and recruits any villager that has no profession into service.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Instruments</h3><p>Every instrument: strings, winds, keys and drums.</p></div>
-    <div><h3>Recruitment</h3><p>Recruits any villager that has no profession. Trading is unaffected.</p></div>
   </div>
 </article>
 
@@ -308,12 +231,8 @@ intro: >-
     <img src="{{ '/icons/brewer.png' | relative_url }}" alt="">
     <div>
       <h2>Brewer</h2>
-      <p class="desc">Fermenting and brewing drinks, which are separate from the Alchemist's potions. Brewers gate every beer and the fermentation vessel behind the ciders, wines and mead.</p>
+      <p class="desc">The drink maker. Crafts the keg, the mug and the hop crop, along with the fermentation vessel behind the ciders, wines, mead and pickles. Separate from the Alchemist's potions.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Beer</h3><p>The keg, the mug and the hop crop. All twelve beers are brewed in the keg.</p></div>
-    <div><h3>Fermentation Vessel</h3><p>The fermentation vessel, and the ciders, wines, mead, pickles and popped maize it turns out.</p></div>
   </div>
 </article>
 
@@ -322,11 +241,8 @@ intro: >-
     <img src="{{ '/icons/curator.png' | relative_url }}" alt="">
     <div>
       <h2>Curator</h2>
-      <p class="desc">Recording the world. Curators gate the camera, the bestiary, the antique atlas and the diary, and carry no bonus to any stat.</p>
+      <p class="desc">The record keeper. Crafts the camera and its film, the bestiary and its analyzer, the antique atlas and the diary.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Records</h3><p>The camera and its film, the bestiary and its analyzer, the antique atlas and the diary.</p></div>
   </div>
 </article>
 
@@ -335,12 +251,8 @@ intro: >-
     <img src="{{ '/icons/herbalist.png' | relative_url }}" alt="">
     <div>
       <h2>Herbalist</h2>
-      <p class="desc">Growing and preparing herbs. Herbalists gate the hemp crop and everything made from it, along with the remedies that are not potions.</p>
+      <p class="desc">The herb grower. Crafts the hemp crop and everything made from it, along with the remedies that are not potions.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Hemp</h3><p>Every hemp good: the crop, its cloth in every dye colour, and the pipes, joints and brownies it becomes.</p></div>
-    <div><h3>Remedies</h3><p>Every remedy: the aura crystal, the two oils, the cleansing concoction and the teas.</p></div>
   </div>
 </article>
 
@@ -349,11 +261,8 @@ intro: >-
     <img src="{{ '/icons/shipwright.png' | relative_url }}" alt="">
     <div>
       <h2>Shipwright</h2>
-      <p class="desc">Shipbuilding. Shipwrights gate all four ship builders, and carry no bonus to any stat.</p>
+      <p class="desc">The shipbuilder. Crafts all four ship builders, and the Lady Maria set, which is a pirate's armor rather than a ranger's.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Ship Builders</h3><p>All four ship builders: the cog, the caravel, the general and the decorative.</p></div>
   </div>
 </article>
 
@@ -362,11 +271,8 @@ intro: >-
     <img src="{{ '/icons/tailor.png' | relative_url }}" alt="">
     <div>
       <h2>Tailor</h2>
-      <p class="desc">Clothing. Tailors gate the sewing bench and every hat and garment made on it.</p>
+      <p class="desc">The clothier. Crafts the sewing kit and table, and every hat and garment made on them.</p>
     </div>
-  </div>
-  <div class="pow">
-    <div><h3>Clothing</h3><p>The sewing kit and table, and every hat and garment made on them: hoods and crowns, coats, robes and boots.</p></div>
   </div>
 </article>
 

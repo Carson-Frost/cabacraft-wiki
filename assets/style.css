@@ -93,6 +93,9 @@ article {
   padding: 30px; margin-bottom: 16px;
 }
 .head { display: flex; gap: 24px; align-items: flex-start; margin-bottom: 24px; }
+/* A Class carries no power grid, so its head is the whole panel and the gap under it would
+   otherwise hang as an empty band that reads as something failing to render. */
+.head:last-child { margin-bottom: 0; }
 .head img {
   width: 120px; height: 120px; flex: none; background: var(--plate);
   border: 1px solid var(--rule); border-radius: 2px; padding: 10px;
