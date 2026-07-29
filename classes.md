@@ -27,8 +27,7 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>Warplate</h3><p>Ability to craft all Warrior class plate armor sets, including the Warrior and the Berserker.</p></div>
-    <div><h3>Field Harness</h3><p>Ability to craft all Warrior class starter harnesses, including the Ironclad and the Brawler. The Ironclad trades movement speed for its extra plate.</p></div>
+    <div><h3>Warrior Armor</h3><p>Ability to craft all Warrior class armor sets, including the Warrior and Berserker plate and the Ironclad and Brawler harnesses beneath them.</p></div>
     <div><h3>Weapon Master</h3><p>An additional 5% melee damage boost.</p></div>
   </div>
 </article>
@@ -42,10 +41,8 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>Bows and Crossbows</h3><p>Ability to craft all bows and crossbows, including the royal and composite longbows, the mechanic shortbow, and the heavy and rapid crossbows.</p></div>
-    <div><h3>Black Powder</h3><p>Ability to craft all black powder weapons, including the muskets, pistols and blunderbuss, along with their cartridges and upgrade template.</p></div>
-    <div><h3>Ranged Leathers</h3><p>Ability to craft all Ranger class light armor sets, including the Archer and the Ranger.</p></div>
-    <div><h3>Field Kit</h3><p>Ability to craft all Ranger field gear, including the field kit, the quiver and the auto-fire hook.</p></div>
+    <div><h3>Ranged Weapons</h3><p>Ability to craft all ranged weapons and their gear, including the royal and composite longbows, the mechanic shortbow, the heavy and rapid crossbows, the muskets, pistols and blunderbuss, and the quiver and auto-fire hook.</p></div>
+    <div><h3>Ranger Armor</h3><p>Ability to craft all Ranger class armor sets, including the Archer and the Ranger.</p></div>
     <div><h3>Marksman</h3><p>An additional 5% ranged damage boost with any bow or crossbow.</p></div>
   </div>
 </article>
@@ -59,10 +56,8 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>Staves</h3><p>Ability to craft all staves, including the wizard, arcane, fire and frost schools.</p></div>
-    <div><h3>Wands</h3><p>Ability to craft all wands, including the novice, arcane, fire and frost schools.</p></div>
-    <div><h3>School Robes</h3><p>Ability to craft all school robes, including arcane, fire and frost.</p></div>
-    <div><h3>Wizard's Robes</h3><p>Ability to craft all general robes, including the Wizard Robe and the Immersive Robe.</p></div>
+    <div><h3>Staves and Wands</h3><p>Ability to craft all staves and wands, including the novice, wizard, arcane, fire and frost schools.</p></div>
+    <div><h3>Mage Robes</h3><p>Ability to craft all Mage class robes, including the arcane, fire and frost school robes and the Wizard and Immersive robes.</p></div>
     <div><h3>Arcane Focus</h3><p>An additional 5% spell power boost.</p></div>
   </div>
 </article>
@@ -76,11 +71,8 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>The Monk's Workbench</h3><p>Ability to craft the monk's workbench, which all other Paladin gear is made on.</p></div>
-    <div><h3>Holy Arms</h3><p>Ability to craft all holy weapons, including the holy wands and staves and the acolyte wand beneath them.</p></div>
-    <div><h3>Kite Shields</h3><p>Ability to craft all kite shields, including iron, gold and diamond.</p></div>
-    <div><h3>Consecrated Plate</h3><p>Ability to craft all Paladin class plate armor sets, including the Paladin, Crusader, Justicar and Divine.</p></div>
-    <div><h3>Vestments</h3><p>Ability to craft all Priest class robes, including the Priest and the Prior.</p></div>
+    <div><h3>Holy Gear</h3><p>Ability to craft all Paladin gear, including the monk's workbench everything else is made on, the holy wands and staves, the acolyte wand, and kite shields in iron, gold and diamond.</p></div>
+    <div><h3>Paladin Armor</h3><p>Ability to craft all Paladin class armor sets, including the Paladin, Crusader, Justicar and Divine plate and the Priest and Prior robes.</p></div>
     <div><h3>Laying On Hands</h3><p>An additional 5% healing boost.</p></div>
   </div>
 </article>
@@ -94,8 +86,7 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>Shadowweave</h3><p>Ability to craft all Rogue class light armor sets, including the Rogue and the Assassin.</p></div>
-    <div><h3>Light Mail</h3><p>Ability to craft all light mail pieces, including iron, gold and diamond.</p></div>
+    <div><h3>Rogue Armor</h3><p>Ability to craft all Rogue class armor sets, including the Rogue and Assassin leathers and light mail in iron, gold and diamond.</p></div>
     <div><h3>Combat Roll</h3><p>The ability to combat roll, which no other class has.</p></div>
   </div>
 </article>
@@ -109,10 +100,7 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>Rare Steel</h3><p>Ability to craft all rare blades, including the aeternium and ruby daggers and the unique longsword.</p></div>
-    <div><h3>Blades</h3><p>Ability to craft all bladed weapons, including claymores, daggers, glaives and sickles in iron, gold and diamond.</p></div>
-    <div><h3>Blunt Arms</h3><p>Ability to craft all blunt weapons, including maces, great hammers and double axes in iron, gold and diamond.</p></div>
-    <div><h3>Reach Weapons</h3><p>Ability to craft all reach weapons, including spears in flint, iron, gold and diamond.</p></div>
+    <div><h3>Melee Weapons</h3><p>Ability to craft all melee weapons, including claymores, daggers, glaives, sickles, maces, great hammers, double axes and spears in flint, iron, gold and diamond, up to the aeternium and ruby daggers and the unique longsword.</p></div>
   </div>
 </article>
 
@@ -142,10 +130,7 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>The Engineer's Own</h3><p>Ability to craft all Engineer tools, including the wrench, the goggles and the schematic table.</p></div>
-    <div><h3>Kinetics</h3><p>Ability to craft all power train parts, including water wheels, hand cranks, gearboxes, gearshifts, clutches, belts and encased fans.</p></div>
-    <div><h3>Processing</h3><p>Ability to craft all processing machines, including millstones, basins, mixers, presses, saws, drills and blaze burners.</p></div>
-    <div><h3>Automation</h3><p>Ability to craft all automation blocks, including deployers, depots, mechanical arms and pistons.</p></div>
+    <div><h3>Create Machinery</h3><p>Ability to craft all Create machinery, including the power train of water wheels, gearboxes, clutches and belts, the processing machines of millstones, mixers, presses and saws, the automation blocks of deployers, depots and mechanical arms, and the Engineer's own wrench, goggles and schematic table.</p></div>
   </div>
 </article>
 
@@ -158,9 +143,7 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>Bearings</h3><p>Ability to craft all airship bearings, including the propeller bearing and the gyroscopic propeller bearing.</p></div>
-    <div><h3>Propellers</h3><p>Ability to craft all propellers, including wood, andesite and smart.</p></div>
-    <div><h3>Flight Kit</h3><p>Ability to craft all pilot's gear, including the adjustable burner and the aviator's goggles.</p></div>
+    <div><h3>Airship Parts</h3><p>Ability to craft all airship parts, including the propeller and gyroscopic propeller bearings, the wood, andesite and smart propellers, and the pilot's adjustable burner and aviator's goggles.</p></div>
   </div>
 </article>
 
@@ -187,9 +170,7 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>Generation</h3><p>Ability to craft all generators, including the basic, bio and fuel generators and the big solar panel.</p></div>
-    <div><h3>Storage and Transfer</h3><p>Ability to craft all power storage and wiring, including the basic and advanced batteries and the energy pipe.</p></div>
-    <div><h3>Machine Bodies</h3><p>Ability to craft all machine bodies, including the machine frame and the machine core, which every Oritech machine is built on.</p></div>
+    <div><h3>Oritech Power</h3><p>Ability to craft all Oritech generation and storage, including the basic, bio and fuel generators, the big solar panel, the basic and advanced batteries, the energy pipe, and the machine frame and core every Oritech machine is built on.</p></div>
   </div>
 </article>
 
@@ -202,7 +183,7 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>The Elixir Bench</h3><p>Ability to craft all brewing stations, including the brewing bench, the glass cauldron, the alchemist's eye and the potion shelf.</p></div>
+    <div><h3>Brewing Stations</h3><p>Ability to craft all brewing stations, including the brewing bench, the glass cauldron, the alchemist's eye and the potion shelf.</p></div>
     <div><h3>The Only Brewer</h3><p>The ability to use a brewing stand or a glass cauldron, which no other class has. An Alchemist's own elixirs also last longer, and a hostile one thrown at them wears off faster.</p></div>
   </div>
 </article>
@@ -216,8 +197,8 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>Enchant Mastery</h3><p>An additional level on all 33 capped enchantments.</p></div>
     <div><h3>Ancient Books</h3><p>Ability to craft the Ancient Book.</p></div>
+    <div><h3>Enchant Mastery</h3><p>An additional level on all 33 capped enchantments.</p></div>
   </div>
 </article>
 
@@ -233,7 +214,7 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>Workstations</h3><p>Ability to craft all Chipped workstations, and through them every block variant they carve.</p></div>
+    <div><h3>Workstations</h3><p>Ability to craft all Chipped workstations, and through them every decorative block variant they carve.</p></div>
     <div><h3>Long Arm</h3><p>An additional half block of reach for placing and breaking. Combat reach is unchanged.</p></div>
   </div>
 </article>
@@ -247,10 +228,7 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>Rare Steel</h3><p>Ability to craft all rare blades, including the aeternium and ruby daggers and the unique longsword.</p></div>
-    <div><h3>Blades</h3><p>Ability to craft all bladed weapons, including claymores, daggers, glaives and sickles in iron, gold and diamond.</p></div>
-    <div><h3>Blunt Arms</h3><p>Ability to craft all blunt weapons, including maces, great hammers and double axes in iron, gold and diamond.</p></div>
-    <div><h3>Reach Weapons</h3><p>Ability to craft all reach weapons, including spears in flint, iron, gold and diamond.</p></div>
+    <div><h3>Melee Weapons</h3><p>Ability to craft all melee weapons, including claymores, daggers, glaives, sickles, maces, great hammers, double axes and spears in flint, iron, gold and diamond, up to the aeternium and ruby daggers and the unique longsword.</p></div>
   </div>
 </article>
 
@@ -263,9 +241,7 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>The Kit</h3><p>Ability to craft the jeweler's kit, which all rings and necklaces are made on.</p></div>
-    <div><h3>Rings</h3><p>Ability to craft all rings, including jade and tanzanite.</p></div>
-    <div><h3>Necklaces</h3><p>Ability to craft all necklaces, including jade and tanzanite.</p></div>
+    <div><h3>Jewelry</h3><p>Ability to craft all rings and necklaces in jade and tanzanite, along with the jeweler's kit they are made on.</p></div>
   </div>
 </article>
 
@@ -278,11 +254,8 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>The Kitchen</h3><p>Ability to craft all kitchen stations, including the gristmill, cooking pot, skillet, stove and cutting board. Any dish made on one of them is a Cook's, whether or not it has a recipe of its own.</p></div>
-    <div><h3>Baking</h3><p>Ability to craft all baked goods, including pies, tarts, cakes and bread, from the shepherd's pie to the sponge cake.</p></div>
-    <div><h3>Sweets</h3><p>Ability to craft all sweets, including candies, candied fruit, cookies and the melon popsicle.</p></div>
-    <div><h3>Preserves and Drinks</h3><p>Ability to craft all preserves and drinks, including the compote cups, the brewed teas, milk and melon juice.</p></div>
-    <div><h3>Dishes</h3><p>Ability to craft all prepared dishes, including stews, medleys, chows, salads, sandwiches, rolls and roasts, and the feasts a whole table eats from.</p></div>
+    <div><h3>Kitchen Stations</h3><p>Ability to craft all kitchen stations, including the gristmill, cooking pot, skillet, stove and cutting board. Any dish made on one of them is a Cook's, whether or not it has a recipe of its own.</p></div>
+    <div><h3>Prepared Food</h3><p>Ability to craft all prepared food, including pies, tarts, cakes and bread, candies and cookies, compotes, teas and juices, and the stews, salads, sandwiches, roasts and whole-table feasts.</p></div>
   </div>
 </article>
 
@@ -297,8 +270,7 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>Rods</h3><p>Ability to craft all fishing rods, including the bamboo and the azure crystal.</p></div>
-    <div><h3>Tackle</h3><p>Ability to craft all tackle, including the copper and amethyst hooks and the bobber.</p></div>
+    <div><h3>Rods and Tackle</h3><p>Ability to craft all fishing gear, including the bamboo and azure crystal rods, the copper and amethyst hooks and the bobber.</p></div>
     <div><h3>The Guide</h3><p>The Starcatcher guide, granted when the specialization is chosen.</p></div>
     <div><h3>Steady Hands</h3><p>An easier fishing minigame: the catch bar drains slower, a miss costs less, the score comes quicker, and a sweet spot lingers.</p></div>
   </div>
@@ -340,8 +312,7 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>The Keg</h3><p>Ability to craft the keg and the mug. Every beer is brewed in the keg and nowhere else, so all twelve follow it.</p></div>
-    <div><h3>Hops</h3><p>Ability to craft hop seeds, and to grow the crop they produce on the underside of a block.</p></div>
+    <div><h3>Beer</h3><p>Ability to craft the keg and mug and to grow hops. Every beer is brewed in the keg and nowhere else, so all twelve follow it.</p></div>
     <div><h3>The Fermentation Vessel</h3><p>Ability to craft the fermentation vessel, which the three ciders, the two wines, the mead, both pickles and the popped maize all come out of.</p></div>
   </div>
 </article>
@@ -355,8 +326,7 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>Photography</h3><p>Ability to craft all photography gear, including the camera and its black-and-white film.</p></div>
-    <div><h3>Field Notes</h3><p>Ability to craft all record-keeping items, including the bestiary and its analyzer, the antique atlas and the diary.</p></div>
+    <div><h3>Records</h3><p>Ability to craft all record-keeping gear, including the camera and its black-and-white film, the bestiary and its analyzer, the antique atlas and the diary.</p></div>
   </div>
 </article>
 
@@ -369,8 +339,7 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>Hemp and Cloth</h3><p>Ability to craft all hemp goods, including the crop, its seeds and crates, and burlap and woven cloth in every dye colour.</p></div>
-    <div><h3>Preparations</h3><p>Ability to craft all hemp preparations, including pipes, bongs, joints and brownies.</p></div>
+    <div><h3>Hemp</h3><p>Ability to craft all hemp goods, including the crop, its seeds and crates, burlap and woven cloth in every dye colour, and the pipes, bongs, joints and brownies made from it.</p></div>
     <div><h3>Remedies</h3><p>Ability to craft all remedies, including the aura crystal, cleansing concoction, empowering and focusing oils, and the two teas.</p></div>
   </div>
 </article>
@@ -397,9 +366,7 @@ intro: >-
     </div>
   </div>
   <div class="pow">
-    <div><h3>The Sewing Bench</h3><p>Ability to craft the sewing kit and the sewing table, which all other pieces are made on.</p></div>
-    <div><h3>Hats</h3><p>Ability to craft all headwear, including hats, crowns, hoods and masks.</p></div>
-    <div><h3>Garments</h3><p>Ability to craft all garments, including robes, coats, aprons, shirts, trousers, scarves, sandals and boots.</p></div>
+    <div><h3>Clothing</h3><p>Ability to craft all clothing, including hats, crowns, hoods and masks, and robes, coats, aprons, shirts, trousers, scarves and boots, along with the sewing kit and table they are made on.</p></div>
   </div>
 </article>
 
