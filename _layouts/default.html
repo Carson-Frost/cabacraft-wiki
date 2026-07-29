@@ -4,7 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% if page.url == '/' %}CabaCraft{% else %}CabaCraft - {{ page.title }}{% endif %}</title>
-<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+<!-- The stylesheet carries the build time, so a design change is never held back by a browser
+     still holding the previous file. GitHub Pages serves with Cache-Control: max-age=600 and
+     the header is not ours to set, so this is the half of staleness we can close. -->
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 </head>
 <body>
 <nav>
