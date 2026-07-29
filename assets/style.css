@@ -56,8 +56,12 @@ body {
 
 .wrap { max-width: var(--col); margin: 0 auto; padding: 0 24px; }
 
-/* Navigation: one bar, current page by weight and a neutral underline. */
-nav { border-bottom: 1px solid var(--rule); background: var(--panel); }
+/* Navigation: one bar, current page by weight and a neutral underline. It stays at the top of
+   the window on scroll, because every page is long enough to lose it otherwise. */
+nav {
+  border-bottom: 1px solid var(--rule); background: var(--panel);
+  position: sticky; top: 0; z-index: 20;
+}
 nav .wrap { display: flex; align-items: center; gap: 34px; min-height: 60px; flex-wrap: wrap; }
 .mark { font-weight: 700; font-size: 18px; letter-spacing: -.02em; }
 nav ul { display: flex; gap: 24px; list-style: none; font-size: 14px; font-weight: 500; color: var(--soft); flex-wrap: wrap; }
@@ -92,6 +96,39 @@ h2 { font-size: 34px; font-weight: 700; letter-spacing: -.03em; line-height: 1; 
 .pow > div { break-inside: avoid; }
 .pow h3 { font-size: 15px; font-weight: 600; letter-spacing: -.005em; margin-bottom: 2px; }
 .pow p { font-size: 15px; color: var(--soft); margin-bottom: 16px; line-height: 1.55; }
+
+/* Banner: an image that is the page's own subject rather than one entry's picture, so it
+   carries no panel around it. A panel would frame it as one entry among several and leave
+   the figures stranded in the middle of it. */
+.banner { max-width: 100%; margin: 0 auto 30px; }
+
+/* Section: a heading on an authored page names a group of facts rather than a thing in the
+   game, so it sits well below the size a race or a class name takes. */
+.section h2 { font-size: 21px; letter-spacing: -.015em; }
+.section .head { margin-bottom: 16px; }
+
+/* Steps: a sequence a player moves through in order, so it is numbered rather than gridded. */
+.steps { list-style: none; counter-reset: step; border-top: 1px solid var(--rule); padding-top: 22px; }
+.steps li { counter-increment: step; display: grid; grid-template-columns: 24px 1fr; padding-bottom: 15px; }
+.steps li::before { content: counter(step); color: var(--soft); font-size: 15px; font-weight: 600; }
+.steps h3 { font-size: 15px; font-weight: 600; margin-bottom: 2px; }
+.steps p { font-size: 15px; color: var(--soft); line-height: 1.55; max-width: 60ch; }
+
+/* Tabs: for a page whose entries divide into groups a reader picks between, such as the
+   Classes under each Path. Radio inputs and labels, so it works with no script. */
+.tabs > input { position: absolute; opacity: 0; pointer-events: none; }
+.tabs > label {
+  display: inline-block; padding: 0 2px 12px; margin-right: 28px; cursor: pointer;
+  font-size: 15px; font-weight: 500; color: var(--soft);
+  border-bottom: 2px solid transparent; margin-bottom: -1px;
+}
+.tabs > label:hover { color: var(--ink); }
+.tabs > input:checked + label { color: var(--ink); font-weight: 600; border-bottom-color: var(--ink); }
+.tabs > input:focus-visible + label { outline: 2px solid var(--ink); outline-offset: 3px; }
+/* The visible group carries the rule, so the tab row is underlined without a wrapper. */
+.tabs > .group { display: none; border-top: 1px solid var(--rule); padding-top: 28px; }
+#t1:checked ~ #g1, #t2:checked ~ #g2, #t3:checked ~ #g3, #t4:checked ~ #g4 { display: block; }
+.groupdesc { color: var(--soft); font-size: 15px; margin: -6px 0 24px; }
 
 /* Table: for a page whose content is a uniform collection, such as the mod list. */
 table { border-collapse: collapse; width: 100%; font-size: 15px; }

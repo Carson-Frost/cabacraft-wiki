@@ -1,7 +1,7 @@
 ---
 title: Races
 permalink: /races/
-lead: The eleven races a character can be. Each one sets your body, your skin, and what you are good at.
+lead: Eleven races. Your race sets your max health, movement speed, powers and skin.
 ---
 
 <article id="tortle">

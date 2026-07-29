@@ -1,17 +1,16 @@
 ---
 title: Classes
 permalink: /classes/
-lead: The three Paths, the fifteen Classes, and the eight Specializations a character can take.
+lead: Three Paths, fifteen Classes and eight Specializations. Your Class and Specialization decide which recipes you can craft.
 ---
 
-<article id="combat">
-  <div class="head">
-    <img src="{{ '/icons/combat.png' | relative_url }}" alt="">
-    <div>
-      <h2>Combat</h2>
-      <p class="desc">Warrior, Ranger, Mage, Paladin, Rogue, Blacksmith, Gunsmith.</p>
-    </div>
-  </div>
+<div class="tabs">
+<input type="radio" name="tab" id="t1" checked><label for="t1">Combat</label>
+<input type="radio" name="tab" id="t2"><label for="t2">Innovation</label>
+<input type="radio" name="tab" id="t3"><label for="t3">Creation</label>
+<input type="radio" name="tab" id="t4"><label for="t4">Specializations</label>
+<div class="group" id="g1">
+<p class="groupdesc">Warrior, Ranger, Mage, Paladin, Rogue, Blacksmith, Gunsmith.</p>
 <article id="warrior">
   <div class="head">
     <img src="{{ '/icons/warrior.png' | relative_url }}" alt="">
@@ -26,6 +25,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Weapon Master</h3><p>5% more melee damage than any other Class, with any weapon.</p></div>
   </div>
 </article>
+
 <article id="ranger">
   <div class="head">
     <img src="{{ '/icons/ranger.png' | relative_url }}" alt="">
@@ -42,6 +42,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Marksman</h3><p>5% more damage from any bow or crossbow than any other Class.</p></div>
   </div>
 </article>
+
 <article id="mage">
   <div class="head">
     <img src="{{ '/icons/mage.png' | relative_url }}" alt="">
@@ -58,6 +59,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Arcane Focus</h3><p>5% more spell power than any other Class.</p></div>
   </div>
 </article>
+
 <article id="paladin">
   <div class="head">
     <img src="{{ '/icons/paladin.png' | relative_url }}" alt="">
@@ -75,6 +77,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Laying On Hands</h3><p>5% more healing than any other Class.</p></div>
   </div>
 </article>
+
 <article id="rogue">
   <div class="head">
     <img src="{{ '/icons/rogue.png' | relative_url }}" alt="">
@@ -89,6 +92,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Combat Roll</h3><p>Only a Rogue can combat roll.</p></div>
   </div>
 </article>
+
 <article id="blacksmith">
   <div class="head">
     <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
@@ -104,6 +108,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Reach Weapons</h3><p>Spears in flint, iron, gold and diamond.</p></div>
   </div>
 </article>
+
 <article id="gunsmith">
   <div class="head">
     <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
@@ -117,16 +122,10 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Cannonry</h3><p>The cannon mount, carriage, loader and drill, and the autocannon barrel.</p></div>
   </div>
 </article>
-</article>
 
-<article id="innovation">
-  <div class="head">
-    <img src="{{ '/icons/innovation.png' | relative_url }}" alt="">
-    <div>
-      <h2>Innovation</h2>
-      <p class="desc">Engineer, Machinist, Gunsmith, Originator, Alchemist, Enchanter.</p>
-    </div>
-  </div>
+</div>
+<div class="group" id="g2">
+<p class="groupdesc">Engineer, Machinist, Gunsmith, Originator, Alchemist, Enchanter.</p>
 <article id="engineer">
   <div class="head">
     <img src="{{ '/icons/engineer.png' | relative_url }}" alt="">
@@ -142,6 +141,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Automation</h3><p>Deployers, depots, mechanical arms and pistons.</p></div>
   </div>
 </article>
+
 <article id="machinist">
   <div class="head">
     <img src="{{ '/icons/machinist.png' | relative_url }}" alt="">
@@ -156,6 +156,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Flight Kit</h3><p>The adjustable burner and the aviator's goggles.</p></div>
   </div>
 </article>
+
 <article id="gunsmith">
   <div class="head">
     <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
@@ -169,6 +170,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Cannonry</h3><p>The cannon mount, carriage, loader and drill, and the autocannon barrel.</p></div>
   </div>
 </article>
+
 <article id="originator">
   <div class="head">
     <img src="{{ '/icons/originator.png' | relative_url }}" alt="">
@@ -183,6 +185,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Machine Bodies</h3><p>The machine frame and machine core.</p></div>
   </div>
 </article>
+
 <article id="alchemist">
   <div class="head">
     <img src="{{ '/icons/alchemist.png' | relative_url }}" alt="">
@@ -196,6 +199,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>The Only Brewer</h3><p>Only an Alchemist can work a brewing stand or a glass cauldron, so every potion in the world comes from one. An Alchemist's own elixirs also run longer in their hands, and a hostile one thrown at them burns off faster.</p></div>
   </div>
 </article>
+
 <article id="enchanter">
   <div class="head">
     <img src="{{ '/icons/enchanter.png' | relative_url }}" alt="">
@@ -209,16 +213,10 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Ancient Books</h3><p>The Ancient Book.</p></div>
   </div>
 </article>
-</article>
 
-<article id="creation">
-  <div class="head">
-    <img src="{{ '/icons/creation.png' | relative_url }}" alt="">
-    <div>
-      <h2>Creation</h2>
-      <p class="desc">Builder, Blacksmith, Jeweler, Cook.</p>
-    </div>
-  </div>
+</div>
+<div class="group" id="g3">
+<p class="groupdesc">Builder, Blacksmith, Jeweler, Cook.</p>
 <article id="builder">
   <div class="head">
     <img src="{{ '/icons/builder.png' | relative_url }}" alt="">
@@ -232,6 +230,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Long Arm</h3><p>Places and breaks half a block further than anyone else. Fighting reach is untouched.</p></div>
   </div>
 </article>
+
 <article id="blacksmith">
   <div class="head">
     <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
@@ -247,6 +246,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Reach Weapons</h3><p>Spears in flint, iron, gold and diamond.</p></div>
   </div>
 </article>
+
 <article id="jeweler">
   <div class="head">
     <img src="{{ '/icons/jeweler.png' | relative_url }}" alt="">
@@ -261,6 +261,7 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Necklaces</h3><p>Jade and tanzanite necklaces.</p></div>
   </div>
 </article>
+
 <article id="cook">
   <div class="head">
     <img src="{{ '/icons/cook.png' | relative_url }}" alt="">
@@ -277,9 +278,9 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Dishes</h3><p>Stews, medleys, chows, salads, sandwiches, rolls and roasts, and the feasts a whole table eats from.</p></div>
   </div>
 </article>
-</article>
 
-<h2>Specialization</h2>
+</div>
+<div class="group" id="g4">
 <article id="angler">
   <div class="head">
     <img src="{{ '/icons/angler.png' | relative_url }}" alt="">
@@ -394,3 +395,6 @@ lead: The three Paths, the fifteen Classes, and the eight Specializations a char
     <div><h3>Garments</h3><p>Robes, coats, aprons, shirts, trousers, scarves, sandals and boots.</p></div>
   </div>
 </article>
+
+</div>
+</div>

@@ -1,7 +1,7 @@
 ---
 title: Mods
 permalink: /mods/
-lead: Every mod in the pack, grouped by what it does.
+lead: All 263 mods in the pack, grouped by what they do. Each name links to that mod's own page.
 ---
 
 <div class="scroll">

@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ page.title }} - CabaCraft</title>
+<title>{% if page.url == '/' %}CabaCraft{% else %}CabaCraft - {{ page.title }}{% endif %}</title>
 <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
 <body>
