@@ -23,7 +23,7 @@ intro: >-
     <img src="{{ '/icons/warrior.png' | relative_url }}" alt="">
     <div>
       <h2>Warrior</h2>
-      <p class="desc">The heavy melee fighter. Crafts the Warrior armor line, the pack's plate from the starter harnesses up to the elite sets. Deals 5% more melee damage.</p>
+      <p class="desc">Fights up close in heavy plate, absorbing hits rather than avoiding them. Crafts the whole warrior armor line, from its starter harnesses up to its strongest sets. Deals 5% more melee damage.</p>
     </div>
   </div>
 </article>
@@ -33,7 +33,7 @@ intro: >-
     <img src="{{ '/icons/ranger.png' | relative_url }}" alt="">
     <div>
       <h2>Ranger</h2>
-      <p class="desc">The ranged fighter. Crafts every bow, crossbow and musket in the pack, along with the Ranger armor line. Deals 5% more ranged damage.</p>
+      <p class="desc">Fights at a distance and stays out of reach. Crafts every bow, crossbow and musket in the game, along with the light armor made to shoot in. Deals 5% more ranged damage.</p>
     </div>
   </div>
 </article>
@@ -43,7 +43,7 @@ intro: >-
     <img src="{{ '/icons/mage.png' | relative_url }}" alt="">
     <div>
       <h2>Mage</h2>
-      <p class="desc">The spellcaster. Crafts every staff and wand across the five schools, along with the robes of all four magic lines. Deals 5% more spell damage.</p>
+      <p class="desc">Fights with spells rather than weapons, across five schools of magic. Crafts every staff and wand, along with the robes worn to cast in. Deals 5% more spell damage.</p>
     </div>
   </div>
 </article>
@@ -53,7 +53,7 @@ intro: >-
     <img src="{{ '/icons/paladin.png' | relative_url }}" alt="">
     <div>
       <h2>Paladin</h2>
-      <p class="desc">The healer and holy fighter. Crafts the monk's workbench and the holy wands, staves and shields made on it, along with the Paladin and Priest armor lines. Heals 5% more.</p>
+      <p class="desc">Heals the people around them and fights with holy weapons. Crafts the workbench that holy gear is made at, along with the paladin and priest armor lines. Heals 5% more.</p>
     </div>
   </div>
 </article>
@@ -63,7 +63,7 @@ intro: >-
     <img src="{{ '/icons/rogue.png' | relative_url }}" alt="">
     <div>
       <h2>Rogue</h2>
-      <p class="desc">The fast, lightly armored fighter. Crafts the Rogue armor line, which trades protection for evasion and attack speed. Can dodge with a combat roll.</p>
+      <p class="desc">Fights fast and lightly armored, avoiding hits rather than taking them. Crafts the rogue armor line, which trades protection for speed. Can dodge with a combat roll.</p>
     </div>
   </div>
 </article>
@@ -73,7 +73,7 @@ intro: >-
     <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
     <div>
       <h2>Blacksmith</h2>
-      <p class="desc">The weaponsmith. Crafts the pack's bladed, blunt and reach weapon lines, up to the aeternium blades. Offered under both the Combat and the Creation Path.</p>
+      <p class="desc">Forges the weapons everyone else fights with. Crafts the melee weapons the pack adds, from blades and daggers to maces, hammers and polearms. Offered under both the Combat and the Creation Path.</p>
     </div>
   </div>
 </article>
@@ -83,7 +83,7 @@ intro: >-
     <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
     <div>
       <h2>Gunsmith</h2>
-      <p class="desc">The gunmaker. Crafts every firearm and cannon in the pack, along with the gear that mounts, aims and loads them. Offered under both the Combat and the Innovation Path.</p>
+      <p class="desc">Builds firearms and artillery. Crafts every gun and cannon in the game, along with the mounts and loading gear they need. Offered under both the Combat and the Innovation Path.</p>
     </div>
   </div>
 </article>
@@ -96,7 +96,7 @@ intro: >-
     <img src="{{ '/icons/engineer.png' | relative_url }}" alt="">
     <div>
       <h2>Engineer</h2>
-      <p class="desc">The automation builder. Crafts all of Create's machinery, from the shafts and gearboxes that carry power to the machines that run on it.</p>
+      <p class="desc">Builds machines that keep working without anyone tending them. Crafts the shafts, gears and powered machinery that automate a job.</p>
     </div>
   </div>
 </article>
@@ -106,7 +106,7 @@ intro: >-
     <img src="{{ '/icons/machinist.png' | relative_url }}" alt="">
     <div>
       <h2>Machinist</h2>
-      <p class="desc">The airship builder. Crafts every airship part, though a ship needs an Engineer's power train before it will move.</p>
+      <p class="desc">Builds airships. Crafts the propellers, bearings and controls a flying vessel is assembled from, though it needs an engineer's machinery before it will move.</p>
     </div>
   </div>
 </article>
@@ -116,7 +116,7 @@ intro: >-
     <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
     <div>
       <h2>Gunsmith</h2>
-      <p class="desc">The gunmaker. Crafts every firearm and cannon in the pack, along with the gear that mounts, aims and loads them. Offered under both the Combat and the Innovation Path.</p>
+      <p class="desc">Builds firearms and artillery. Crafts every gun and cannon in the game, along with the mounts and loading gear they need. Offered under both the Combat and the Innovation Path.</p>
     </div>
   </div>
 </article>
@@ -126,7 +126,7 @@ intro: >-
     <img src="{{ '/icons/originator.png' | relative_url }}" alt="">
     <div>
       <h2>Originator</h2>
-      <p class="desc">The power generator. Crafts Oritech's generators, batteries and wiring, and the frames and cores its machines are built on.</p>
+      <p class="desc">Generates and stores electrical power. Crafts the generators, batteries and wiring that powered machines run on.</p>
     </div>
   </div>
 </article>
@@ -136,7 +136,7 @@ intro: >-
     <img src="{{ '/icons/alchemist.png' | relative_url }}" alt="">
     <div>
       <h2>Alchemist</h2>
-      <p class="desc">The potion brewer. Crafts the brewing stations and works the brewing stand and glass cauldron, which is where every potion in the pack comes from. Their own elixirs run longer and hostile ones wear off faster.</p>
+      <p class="desc">Brews every potion in the game. Crafts the brewing stations, and is the one class that can work a brewing stand or a cauldron. Their own potions last longer and hostile ones wear off faster.</p>
     </div>
   </div>
 </article>
@@ -146,7 +146,7 @@ intro: >-
     <img src="{{ '/icons/enchanter.png' | relative_url }}" alt="">
     <div>
       <h2>Enchanter</h2>
-      <p class="desc">The enchanter. Crafts the Ancient Book, and enchants one level past the cap that every enchantment in the pack carries.</p>
+      <p class="desc">Pushes enchantments past the ceiling the world puts on them. Every enchantment in the game is capped, and an enchanter adds one level on top. Crafts the ancient book that does it.</p>
     </div>
   </div>
 </article>
@@ -159,7 +159,7 @@ intro: >-
     <img src="{{ '/icons/builder.png' | relative_url }}" alt="">
     <div>
       <h2>Builder</h2>
-      <p class="desc">The large-scale builder. Crafts the eight Chipped workstations and cuts every decorative block variant on them. Reaches half a block further to place and break.</p>
+      <p class="desc">Builds at scale, with the widest choice of decorative blocks. Crafts the eight workstations that cut stone, wood and metal into hundreds of patterns. Reaches half a block further to place and break.</p>
     </div>
   </div>
 </article>
@@ -169,7 +169,7 @@ intro: >-
     <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
     <div>
       <h2>Blacksmith</h2>
-      <p class="desc">The weaponsmith. Crafts the pack's bladed, blunt and reach weapon lines, up to the aeternium blades. Offered under both the Combat and the Creation Path.</p>
+      <p class="desc">Forges the weapons everyone else fights with. Crafts the melee weapons the pack adds, from blades and daggers to maces, hammers and polearms. Offered under both the Combat and the Creation Path.</p>
     </div>
   </div>
 </article>
@@ -179,7 +179,7 @@ intro: >-
     <img src="{{ '/icons/jeweler.png' | relative_url }}" alt="">
     <div>
       <h2>Jeweler</h2>
-      <p class="desc">The accessory maker. Crafts the jeweler's kit and every ring and necklace made on it, which are worn alongside armor rather than instead of it.</p>
+      <p class="desc">Makes the rings and necklaces players wear for extra stats. Crafts the jeweler's kit and every piece made on it, worn alongside armor rather than in place of it.</p>
     </div>
   </div>
 </article>
@@ -189,7 +189,7 @@ intro: >-
     <img src="{{ '/icons/cook.png' | relative_url }}" alt="">
     <div>
       <h2>Cook</h2>
-      <p class="desc">The cook. Crafts every prepared dish in the pack and every kitchen station they are made on, which matters because food is what restores health here.</p>
+      <p class="desc">Feeds the server. Food is what restores health here, so a cooked meal matters more than it does in normal Minecraft. Crafts every prepared dish and every kitchen station.</p>
     </div>
   </div>
 </article>
@@ -201,7 +201,7 @@ intro: >-
     <img src="{{ '/icons/angler.png' | relative_url }}" alt="">
     <div>
       <h2>Angler</h2>
-      <p class="desc">The fisher. Crafts every rod, hook and bobber in the pack. The fishing minigame runs slower and more forgivingly.</p>
+      <p class="desc">Fishes for a living. Crafts every rod, hook and bobber in the game, and finds the fishing minigame slower and more forgiving.</p>
     </div>
   </div>
 </article>
@@ -211,7 +211,7 @@ intro: >-
     <img src="{{ '/icons/archaeologist.png' | relative_url }}" alt="">
     <div>
       <h2>Archaeologist</h2>
-      <p class="desc">The excavator. Crafts the tools that both of the pack's digging systems need.</p>
+      <p class="desc">Digs up buried sites. Crafts the brushes and tools that both of the pack's excavation systems need.</p>
     </div>
   </div>
 </article>
@@ -221,7 +221,7 @@ intro: >-
     <img src="{{ '/icons/bard.png' | relative_url }}" alt="">
     <div>
       <h2>Bard</h2>
-      <p class="desc">The musician. Crafts every instrument in the pack, and recruits any villager that has no profession into service.</p>
+      <p class="desc">Plays music and puts villagers to work. Crafts every instrument in the game, and recruits any villager who has no profession.</p>
     </div>
   </div>
 </article>
@@ -231,7 +231,7 @@ intro: >-
     <img src="{{ '/icons/brewer.png' | relative_url }}" alt="">
     <div>
       <h2>Brewer</h2>
-      <p class="desc">The drink maker. Crafts the keg, the mug and the hop crop, along with the fermentation vessel behind the ciders, wines, mead and pickles. Separate from the Alchemist's potions.</p>
+      <p class="desc">Ferments drinks, which are a separate craft from the alchemist's potions. Crafts the keg, the mug and the hop crop, along with the vessel that turns out ciders, wines, mead and pickles.</p>
     </div>
   </div>
 </article>
@@ -241,7 +241,7 @@ intro: >-
     <img src="{{ '/icons/curator.png' | relative_url }}" alt="">
     <div>
       <h2>Curator</h2>
-      <p class="desc">The record keeper. Crafts the camera and its film, the bestiary and its analyzer, the antique atlas and the diary.</p>
+      <p class="desc">Records what the server finds. Crafts the camera and its film, the bestiary and its analyzer, the atlas and the diary.</p>
     </div>
   </div>
 </article>
@@ -251,7 +251,7 @@ intro: >-
     <img src="{{ '/icons/herbalist.png' | relative_url }}" alt="">
     <div>
       <h2>Herbalist</h2>
-      <p class="desc">The herb grower. Crafts the hemp crop and everything made from it, along with the remedies that are not potions.</p>
+      <p class="desc">Grows herbs and prepares remedies. Crafts the hemp crop and everything made from it, along with the oils, teas and tonics that are not potions.</p>
     </div>
   </div>
 </article>
@@ -261,7 +261,7 @@ intro: >-
     <img src="{{ '/icons/shipwright.png' | relative_url }}" alt="">
     <div>
       <h2>Shipwright</h2>
-      <p class="desc">The shipbuilder. Crafts all four ship builders, and the Lady Maria set, which is a pirate's armor rather than a ranger's.</p>
+      <p class="desc">Builds sailing ships. Crafts all four ship builders, along with the pirate armor set, which suits a sailor rather than a ranger.</p>
     </div>
   </div>
 </article>
@@ -271,7 +271,7 @@ intro: >-
     <img src="{{ '/icons/tailor.png' | relative_url }}" alt="">
     <div>
       <h2>Tailor</h2>
-      <p class="desc">The clothier. Crafts the sewing kit and table, and every hat and garment made on them.</p>
+      <p class="desc">Makes clothing. Crafts the sewing kit and table, and every hat, coat, robe and pair of boots made on them.</p>
     </div>
   </div>
 </article>
