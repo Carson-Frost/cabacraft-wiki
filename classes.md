@@ -23,7 +23,7 @@ intro: >-
     <img src="{{ '/icons/warrior.png' | relative_url }}" alt="">
     <div>
       <h2>Warrior</h2>
-      <p class="desc">Warriors fight at close range in heavy plate, forge every set in the warrior armor line from starter harnesses to elite plate, and deal 5% more melee damage.</p>
+      <p class="desc">Warriors wear the heaviest armor and fight up close, make every set in the warrior armor line, and deal 5% more melee damage.</p>
     </div>
   </div>
 </article>
@@ -33,7 +33,7 @@ intro: >-
     <img src="{{ '/icons/ranger.png' | relative_url }}" alt="">
     <div>
       <h2>Ranger</h2>
-      <p class="desc">Rangers forge bows, crossbows and muskets, attack from a distance in light archer armor, trading protection for mobility, and deal 5% more ranged damage.</p>
+      <p class="desc">Rangers shoot from range with bows, crossbows and muskets they make, wear light archer armor, and deal 5% more ranged damage.</p>
     </div>
   </div>
 </article>
@@ -43,7 +43,7 @@ intro: >-
     <img src="{{ '/icons/mage.png' | relative_url }}" alt="">
     <div>
       <h2>Mage</h2>
-      <p class="desc">Mages are fragile but highly varied, casting across five schools of magic with staves, wands and robes they craft themselves, and deal 5% more spell damage.</p>
+      <p class="desc">Mages wear light robes and cast from five schools of magic, make their own staves and wands, and deal 5% more spell damage.</p>
     </div>
   </div>
 </article>
