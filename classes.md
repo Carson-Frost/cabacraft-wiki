@@ -23,7 +23,7 @@ intro: >-
     <img src="{{ '/icons/warrior.png' | relative_url }}" alt="">
     <div>
       <h2>Warrior</h2>
-      <p class="desc">Melee combat with strong defense. Warriors make every set on the warrior armor line, from the starter harnesses up to the heaviest plate the pack has, and they deal 5% more melee damage.</p>
+      <p class="desc">Warriors fight at close range behind the heaviest armor in the pack, crafting every set on the warrior line from the starter harnesses upward, and deal 5% more melee damage.</p>
     </div>
   </div>
 </article>
@@ -33,7 +33,7 @@ intro: >-
     <img src="{{ '/icons/ranger.png' | relative_url }}" alt="">
     <div>
       <h2>Ranger</h2>
-      <p class="desc">Rangers fight from where nothing can reach them. Bows, crossbows, muskets and the light archer armor that keeps a shooter quick all start at a Ranger's bench, and their shots land for 5% more.</p>
+      <p class="desc">Rangers craft the pack's bows, crossbows and muskets along with the light archer armor that keeps them mobile, attack from a distance, and deal 5% more ranged damage.</p>
     </div>
   </div>
 </article>
@@ -43,7 +43,7 @@ intro: >-
     <img src="{{ '/icons/mage.png' | relative_url }}" alt="">
     <div>
       <h2>Mage</h2>
-      <p class="desc">Mages are fragile but varied, casting across five schools of magic. They make staves, wands and the arcane, fire, frost and wizard robes, and their spells hit 5% harder.</p>
+      <p class="desc">Mages are fragile but varied, casting across five schools of magic with staves, wands and robes of their own making, and deal 5% more spell damage.</p>
     </div>
   </div>
 </article>
@@ -53,7 +53,7 @@ intro: >-
     <img src="{{ '/icons/paladin.png' | relative_url }}" alt="">
     <div>
       <h2>Paladin</h2>
-      <p class="desc">Half healer, half front line. A Paladin builds the monk's workbench behind every piece of holy gear, wears the paladin, crusader and priest lines, and heals 5% more.</p>
+      <p class="desc">Paladins hold a line and heal the players behind it, crafting the monk's workbench and the paladin, crusader and priest armor lines, and heal 5% more.</p>
     </div>
   </div>
 </article>
@@ -63,7 +63,7 @@ intro: >-
     <img src="{{ '/icons/rogue.png' | relative_url }}" alt="">
     <div>
       <h2>Rogue</h2>
-      <p class="desc">Rogues give up protection for speed. They make the rogue and assassin armor, cut light enough to move in, and a Rogue can roll clear of an incoming hit.</p>
+      <p class="desc">Rogues give up protection for speed, wearing the light rogue and assassin armor they craft themselves, and can roll clear of an incoming attack.</p>
     </div>
   </div>
 </article>
@@ -73,7 +73,7 @@ intro: >-
     <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
     <div>
       <h2>Blacksmith</h2>
-      <p class="desc">A Blacksmith forges the melee weapons the pack adds: daggers, claymores, glaives, sickles, maces and polearms. Both the Combat Path and the Creation Path offer this class.</p>
+      <p class="desc">Blacksmiths forge the melee weapons the pack adds, from daggers and claymores to glaives, sickles, maces and polearms, and appear on both the Combat and the Creation Path.</p>
     </div>
   </div>
 </article>
@@ -83,7 +83,7 @@ intro: >-
     <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
     <div>
       <h2>Gunsmith</h2>
-      <p class="desc">Guns and artillery are one trade here. A Gunsmith makes the pack's firearms and its cannons, along with the mounts and loading gear they need. The class appears on the Combat Path and the Innovation Path alike.</p>
+      <p class="desc">Gunsmiths supply the pack's firearms and cannons, building the mounts and loading gear those weapons run on, and appear on both the Combat and the Innovation Path.</p>
     </div>
   </div>
 </article>
@@ -96,7 +96,7 @@ intro: >-
     <img src="{{ '/icons/engineer.png' | relative_url }}" alt="">
     <div>
       <h2>Engineer</h2>
-      <p class="desc">Automation is the Engineer's trade. They build the shafts, gears, belts and powered machinery that run a job without a player standing over it.</p>
+      <p class="desc">Engineers automate the work everyone else does by hand, crafting the shafts, gears, belts and powered machinery that keep a job running with nobody present.</p>
     </div>
   </div>
 </article>
@@ -106,7 +106,7 @@ intro: >-
     <img src="{{ '/icons/machinist.png' | relative_url }}" alt="">
     <div>
       <h2>Machinist</h2>
-      <p class="desc">Airships. A Machinist assembles the propellers, bearings, burners and controls that hold one together, though it takes an Engineer's machinery before anything flies.</p>
+      <p class="desc">Machinists assemble airships from the propellers, bearings, burners and controls they build, though no vessel flies without an Engineer's machinery driving it.</p>
     </div>
   </div>
 </article>
@@ -116,7 +116,7 @@ intro: >-
     <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
     <div>
       <h2>Gunsmith</h2>
-      <p class="desc">Guns and artillery are one trade here. A Gunsmith makes the pack's firearms and its cannons, along with the mounts and loading gear they need. The class appears on the Combat Path and the Innovation Path alike.</p>
+      <p class="desc">Gunsmiths supply the pack's firearms and cannons, building the mounts and loading gear those weapons run on, and appear on both the Combat and the Innovation Path.</p>
     </div>
   </div>
 </article>
@@ -126,7 +126,7 @@ intro: >-
     <img src="{{ '/icons/originator.png' | relative_url }}" alt="">
     <div>
       <h2>Originator</h2>
-      <p class="desc">Powered machines need somewhere to draw from. An Originator makes the generators, solar panels, batteries and wiring that supply them.</p>
+      <p class="desc">Originators generate and store the pack's electricity, making the generators, solar panels, batteries and wiring every powered machine draws on.</p>
     </div>
   </div>
 </article>
@@ -136,7 +136,7 @@ intro: >-
     <img src="{{ '/icons/alchemist.png' | relative_url }}" alt="">
     <div>
       <h2>Alchemist</h2>
-      <p class="desc">Potions run through the Alchemist, who makes the brewing stations and every draught that comes off them. A brewing stand or a cauldron only works in an Alchemist's hands, their own potions last longer, and hostile ones wear off sooner.</p>
+      <p class="desc">Alchemists are the only class that can work a brewing stand or cauldron, crafting the brewing stations and the potions that come off them, and their own potions run longer while hostile ones fade sooner.</p>
     </div>
   </div>
 </article>
@@ -146,7 +146,7 @@ intro: >-
     <img src="{{ '/icons/enchanter.png' | relative_url }}" alt="">
     <div>
       <h2>Enchanter</h2>
-      <p class="desc">Every enchantment in this world stops at a ceiling. An Enchanter raises it by a level, and makes the ancient book that does it.</p>
+      <p class="desc">Enchanters raise the world's enchantment ceiling by a level, forging the ancient books that carry it.</p>
     </div>
   </div>
 </article>
@@ -159,7 +159,7 @@ intro: >-
     <img src="{{ '/icons/builder.png' | relative_url }}" alt="">
     <div>
       <h2>Builder</h2>
-      <p class="desc">Builders work at scale. A Builder makes the eight cutting stations that turn plain stone, wood and metal into hundreds of decorative variants, and reaches half a block further to place and break.</p>
+      <p class="desc">Builders work in bulk, owning the eight cutting stations that turn plain stone, wood and metal into hundreds of decorative variants, and reach half a block further to place and break.</p>
     </div>
   </div>
 </article>
@@ -169,7 +169,7 @@ intro: >-
     <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
     <div>
       <h2>Blacksmith</h2>
-      <p class="desc">A Blacksmith forges the melee weapons the pack adds: daggers, claymores, glaives, sickles, maces and polearms. Both the Combat Path and the Creation Path offer this class.</p>
+      <p class="desc">Blacksmiths forge the melee weapons the pack adds, from daggers and claymores to glaives, sickles, maces and polearms, and appear on both the Combat and the Creation Path.</p>
     </div>
   </div>
 </article>
@@ -179,7 +179,7 @@ intro: >-
     <img src="{{ '/icons/jeweler.png' | relative_url }}" alt="">
     <div>
       <h2>Jeweler</h2>
-      <p class="desc">Rings and necklaces sit in their own slots, next to armor rather than instead of it. A Jeweler makes the kit and cuts every piece that comes off it.</p>
+      <p class="desc">Jewelers cut the rings and necklaces that sit in their own slots alongside armor, and build the kit every piece comes off.</p>
     </div>
   </div>
 </article>
@@ -189,7 +189,7 @@ intro: >-
     <img src="{{ '/icons/cook.png' | relative_url }}" alt="">
     <div>
       <h2>Cook</h2>
-      <p class="desc">Food is what restores health here, so a meal counts for more than it does in ordinary Minecraft. A Cook runs the kitchen: the gristmill, cooking pot, cutting board, skillet and stove, and every dish that comes off them.</p>
+      <p class="desc">Cooks matter more in this pack than in ordinary Minecraft, since food is what restores health, and they run the whole kitchen from the gristmill and cooking pot to the cutting board, skillet and stove.</p>
     </div>
   </div>
 </article>
@@ -201,7 +201,7 @@ intro: >-
     <img src="{{ '/icons/angler.png' | relative_url }}" alt="">
     <div>
       <h2>Angler</h2>
-      <p class="desc">Fishing is the whole of it. An Angler makes every rod, hook and bobber in the pack, and works the catch minigame at a slower, more forgiving pace.</p>
+      <p class="desc">Anglers fish at a slower and more forgiving pace than the catch minigame usually allows, and craft every rod, hook and bobber the pack adds.</p>
     </div>
   </div>
 </article>
@@ -211,7 +211,7 @@ intro: >-
     <img src="{{ '/icons/archaeologist.png' | relative_url }}" alt="">
     <div>
       <h2>Archaeologist</h2>
-      <p class="desc">An Archaeologist digs up what the rest of the server walks over. Both of the pack's excavation systems want brushes and fine tools, and this class makes them.</p>
+      <p class="desc">Archaeologists excavate buried sites, making the brushes and fine tools both of the pack's dig systems need.</p>
     </div>
   </div>
 </article>
@@ -221,7 +221,7 @@ intro: >-
     <img src="{{ '/icons/bard.png' | relative_url }}" alt="">
     <div>
       <h2>Bard</h2>
-      <p class="desc">Bards play, and villagers listen. A Bard makes every instrument in the pack, and can put any villager without a profession to work.</p>
+      <p class="desc">Bards build and play every instrument the pack adds, and can put any villager without a profession to work.</p>
     </div>
   </div>
 </article>
@@ -231,7 +231,7 @@ intro: >-
     <img src="{{ '/icons/brewer.png' | relative_url }}" alt="">
     <div>
       <h2>Brewer</h2>
-      <p class="desc">Drink is a separate craft from the Alchemist's potions. A Brewer makes the keg, the mug and the hop crop, and the vessel that turns out ciders, wines, mead and pickles.</p>
+      <p class="desc">Brewers ferment drinks rather than brewing potions, making the keg, the mug, the hop crop and the vessel that turns out ciders, wines, mead and pickles.</p>
     </div>
   </div>
 </article>
@@ -241,7 +241,7 @@ intro: >-
     <img src="{{ '/icons/curator.png' | relative_url }}" alt="">
     <div>
       <h2>Curator</h2>
-      <p class="desc">Somebody has to keep the record. A Curator makes the camera and its film, the bestiary and its analyzer, the atlas and the diary.</p>
+      <p class="desc">Curators record what a server finds, crafting the camera and its film, the bestiary and its analyzer, the atlas and the diary.</p>
     </div>
   </div>
 </article>
@@ -251,7 +251,7 @@ intro: >-
     <img src="{{ '/icons/herbalist.png' | relative_url }}" alt="">
     <div>
       <h2>Herbalist</h2>
-      <p class="desc">Herbalists grow hemp and work everything that comes of it, from burlap and rope to pipes. The salves, oils and teas they prepare are remedies rather than potions, and no brewing stand touches them.</p>
+      <p class="desc">Herbalists grow hemp and everything that comes of it, from burlap and rope to pipes, and prepare salves, oils and teas that count as remedies rather than potions.</p>
     </div>
   </div>
 </article>
@@ -261,7 +261,7 @@ intro: >-
     <img src="{{ '/icons/shipwright.png' | relative_url }}" alt="">
     <div>
       <h2>Shipwright</h2>
-      <p class="desc">Shipwrights build what floats. All four ship builders belong to them, along with the pirate armor, which suits a sailor better than a ranger.</p>
+      <p class="desc">Shipwrights launch sailing ships, building all four ship builders along with the pirate armor set, which suits a sailor rather than a ranger.</p>
     </div>
   </div>
 </article>
@@ -271,7 +271,7 @@ intro: >-
     <img src="{{ '/icons/tailor.png' | relative_url }}" alt="">
     <div>
       <h2>Tailor</h2>
-      <p class="desc">Clothing is a trade of its own here. A Tailor makes the sewing kit and the sewing table, and every hat, coat, robe and pair of boots that comes off them.</p>
+      <p class="desc">Tailors sew the pack's hats, coats, robes and boots, and build the sewing kit and table those garments come off.</p>
     </div>
   </div>
 </article>
