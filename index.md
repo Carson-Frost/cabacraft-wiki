@@ -11,12 +11,12 @@ intro: >-
 ---
 
 <article class="section">
-  <img src="{{ '/assets/home-species.png' | relative_url }}" alt="The eleven species">
   <div class="head">
     <div>
       <h2>Unique player experiences</h2>
     </div>
   </div>
+  <div class="ph"><span>The three selection screens as a player actually sees them, side by side.</span></div>
   <div class="pow">
     <div><h3>Species</h3><p>Eleven to choose from. Sets max health, movement speed, skin and powers.</p></div>
     <div><h3>Classes</h3><p>Fifteen, under three Paths. Each gates recipes no other class can reach.</p></div>
@@ -31,6 +31,7 @@ intro: >-
       <h2>Factions and the server</h2>
     </div>
   </div>
+  <div class="ph"><span>The three factions on the world map, with their territories marked.</span></div>
   <div class="pow">
     <div><h3>Three factions</h3><p>Every player belongs to one, each with its own territory and leader.</p></div>
     <div><h3>The alliance</h3><p>All three sit under one alliance leader, elected by a vote.</p></div>
@@ -45,6 +46,7 @@ intro: >-
       <h2>Changes to vanilla systems</h2>
     </div>
   </div>
+  <div class="ph"><span>The food and temperature HUD in play, which is where both systems are read.</span></div>
   <div class="pow">
     <div><h3>Food</h3><p>An adjusted Valheim food system. No hunger bar; each food fills a slot for three minutes and you regenerate only while a slot is filled.</p></div>
     <div><h3>Temperature</h3><p>Tuned per species, so the same biome is safe for one player and lethal for another. Each faction adjusts to its own territory.</p></div>

@@ -118,8 +118,13 @@ h2 { font-size: 34px; font-weight: 700; letter-spacing: -.03em; line-height: 1; 
    game, so it sits well below the size a species or a class name takes. */
 .section h2 { font-size: 21px; letter-spacing: -.015em; }
 .section .head { margin-bottom: 16px; }
-.section img { width: 100%; border: 1px solid var(--rule); border-radius: 2px; margin-bottom: 20px; }
-.shot { display: grid; grid-template-columns: 1fr; gap: 0; }
+/* Placeholder: a reserved image slot that states what picture belongs in it. It is deliberately
+   visible and unfinished, because an empty slot reads as a design choice and this is not one. */
+.ph {
+  border: 1px dashed var(--rule); border-radius: 2px; background: var(--plate);
+  min-height: 190px; display: grid; place-items: center; padding: 24px; margin-bottom: 22px;
+}
+.ph span { color: var(--soft); font-size: 14px; max-width: 46ch; text-align: center; }
 
 /* Steps: a sequence a player moves through in order, so it is numbered rather than gridded. */
 .steps { list-style: none; counter-reset: step; border-top: 1px solid var(--rule); padding-top: 22px; }
