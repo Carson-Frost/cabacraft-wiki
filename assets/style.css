@@ -75,6 +75,18 @@ header { padding: 70px 0 44px; }
 h1 { font-size: 64px; font-weight: 700; letter-spacing: -.035em; line-height: .98; margin-bottom: 18px; text-wrap: balance; }
 .lead { font-size: 19px; max-width: 58ch; color: var(--soft); }
 
+/* Intro: the paragraph that explains a page's subject before its entries begin, for a page
+   whose entries mean nothing until the system behind them is explained. */
+.intro { margin-bottom: 34px; }
+.intro p { max-width: 74ch; margin-bottom: 14px; }
+.intro p:last-child { margin-bottom: 0; }
+/* A link in this paragraph is underlined. It takes --soft rather than the --rule a table link
+   takes: --rule reads as a divider under a full-width row and all but disappears under a word,
+   and an invisible link is worse than none. Still no hue. */
+.intro a { text-decoration: underline; text-underline-offset: 3px;
+           text-decoration-color: var(--soft); text-decoration-thickness: 1px; }
+.intro a:hover { text-decoration-color: var(--ink); }
+
 /* Entry: one raised panel per race, class, or faction. */
 article {
   background: var(--panel); border: 1px solid var(--rule); border-radius: 3px;

@@ -29,6 +29,9 @@
 </header>
 
 <main class="wrap">
+{%- if page.intro %}
+<div class="intro">{{ page.intro | markdownify }}</div>
+{%- endif %}
 {{ content }}
 </main>
 

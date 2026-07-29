@@ -6,8 +6,8 @@ description: The player wiki for CabaCraft, a DnD-flavored Minecraft server pack
 nav:
   - name: Home
     url: /
-  - name: Races
-    url: /races/
+  - name: Species
+    url: /species/
   - name: Classes
     url: /classes/
   - name: Factions

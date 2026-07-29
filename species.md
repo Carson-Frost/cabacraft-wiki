@@ -1,7 +1,13 @@
 ---
-title: Races
-permalink: /races/
-lead: Eleven races. Your race sets your max health, movement speed, powers and skin.
+title: Species
+permalink: /species/
+intro: >-
+  Every player picks one of eleven species when they first enter a world. A species sets max health,
+  movement speed and skin, and grants a handful of powers no other species has. Unlike a class, a
+  species grants no recipes at all: it changes what your body can do rather than what you can make,
+  and it is the one choice the world itself reacts to, because temperature is tuned per species.
+  Elves and Humans choose again on a second screen, picking one of four Elf lineages or one of six
+  Human traits, and the other nine species skip it.
 ---
 
 <article id="tortle">
