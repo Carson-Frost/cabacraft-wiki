@@ -23,7 +23,7 @@ intro: >-
     <img src="{{ '/icons/warrior.png' | relative_url }}" alt="">
     <div>
       <h2>Warrior</h2>
-      <p class="desc">Warriors wear the heaviest armor and fight up close, make every set in the warrior armor line, and deal 5% more melee damage.</p>
+      <p class="desc">Warriors fight in the heaviest plate armor and forge every set on the warrior armor line, from the plain starter harnesses to the elite sets. Up close they deal 5% more melee damage than any other class.</p>
     </div>
   </div>
 </article>
