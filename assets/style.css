@@ -71,14 +71,14 @@ nav a[aria-current]::after {
 }
 
 /* Page head: a title and one plain sentence, never a stack of paragraphs. */
-header { padding: 70px 0 44px; }
-h1 { font-size: 64px; font-weight: 700; letter-spacing: -.035em; line-height: .98; margin-bottom: 18px; text-wrap: balance; }
+header { padding: 52px 0 22px; }
+h1 { font-size: 42px; font-weight: 700; letter-spacing: -.03em; line-height: 1.02; margin-bottom: 14px; text-wrap: balance; }
 .lead { font-size: 19px; max-width: 58ch; color: var(--soft); }
 
 /* Intro: the paragraph that explains a page's subject before its entries begin, for a page
    whose entries mean nothing until the system behind them is explained. */
-.intro { margin-bottom: 34px; }
-.intro p { max-width: 74ch; margin-bottom: 14px; }
+.intro { margin-bottom: 30px; }
+.intro p { max-width: 78ch; margin-bottom: 14px; font-size: 17px; }
 .intro p:last-child { margin-bottom: 0; }
 /* A link in this paragraph is underlined. It takes --soft rather than the --rule a table link
    takes: --rule reads as a divider under a full-width row and all but disappears under a word,
@@ -115,9 +115,11 @@ h2 { font-size: 34px; font-weight: 700; letter-spacing: -.03em; line-height: 1; 
 .banner { max-width: 100%; margin: 0 auto 30px; }
 
 /* Section: a heading on an authored page names a group of facts rather than a thing in the
-   game, so it sits well below the size a race or a class name takes. */
+   game, so it sits well below the size a species or a class name takes. */
 .section h2 { font-size: 21px; letter-spacing: -.015em; }
 .section .head { margin-bottom: 16px; }
+.section img { width: 100%; border: 1px solid var(--rule); border-radius: 2px; margin-bottom: 20px; }
+.shot { display: grid; grid-template-columns: 1fr; gap: 0; }
 
 /* Steps: a sequence a player moves through in order, so it is numbered rather than gridded. */
 .steps { list-style: none; counter-reset: step; border-top: 1px solid var(--rule); padding-top: 22px; }
@@ -157,7 +159,7 @@ footer { padding: 22px 0 70px; color: var(--soft); font-size: 14.5px; }
 
 @media (max-width: 720px) {
   .pow { grid-template-columns: 1fr; }
-  h1 { font-size: 44px; }
+  h1 { font-size: 32px; }
   h2 { font-size: 28px; }
   .head { gap: 16px; }
   .head img { width: 88px; height: 88px; }
