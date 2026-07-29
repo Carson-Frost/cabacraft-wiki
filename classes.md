@@ -23,7 +23,7 @@ intro: >-
     <img src="{{ '/icons/warrior.png' | relative_url }}" alt="">
     <div>
       <h2>Warrior</h2>
-      <p class="desc">Warriors are melee fighters who wear the heaviest armor. They craft every warrior armor set and deal 5% more melee damage than any other class.</p>
+      <p class="desc">The warrior stands in the front line, wearing the heaviest armor there is and forging every set a warrior can wear. In melee, the warrior deals 5% more damage than any other class.</p>
     </div>
   </div>
 </article>
@@ -33,7 +33,7 @@ intro: >-
     <img src="{{ '/icons/ranger.png' | relative_url }}" alt="">
     <div>
       <h2>Ranger</h2>
-      <p class="desc">Rangers shoot from range with bows, crossbows and muskets they make, wear light archer armor, and deal 5% more ranged damage.</p>
+      <p class="desc">Rangers fight at a distance and make the bows, crossbows, and muskets they fire, along with the light armor they wear. Their shots land 5% more ranged damage than any other class.</p>
     </div>
   </div>
 </article>
@@ -43,7 +43,7 @@ intro: >-
     <img src="{{ '/icons/mage.png' | relative_url }}" alt="">
     <div>
       <h2>Mage</h2>
-      <p class="desc">Mages wear light robes and cast from five schools of magic, make their own staves and wands, and deal 5% more spell damage.</p>
+      <p class="desc">A mage casts spells in cloth robes, stitching those robes and shaping the staves and wands that channel the magic. The mage's spells strike for 5% more damage than any other class.</p>
     </div>
   </div>
 </article>
@@ -53,7 +53,7 @@ intro: >-
     <img src="{{ '/icons/paladin.png' | relative_url }}" alt="">
     <div>
       <h2>Paladin</h2>
-      <p class="desc">Paladins heal allies and fight beside them in holy armor, crafting the monk's workbench along with the paladin, crusader and priest lines, and heal 5% more.</p>
+      <p class="desc">The paladin fights at an ally's side and mends their wounds, wearing heavy holy armor of its own making and building the monk's workbench. A paladin heals 5% more than any other class.</p>
     </div>
   </div>
 </article>
@@ -63,7 +63,7 @@ intro: >-
     <img src="{{ '/icons/rogue.png' | relative_url }}" alt="">
     <div>
       <h2>Rogue</h2>
-      <p class="desc">Rogues trade protection for speed, wear only the light rogue and assassin armor they make, and can roll clear of an incoming attack.</p>
+      <p class="desc">Rogues move fast and stay light, trading protection for speed. They wear and craft only light rogue and assassin armor. A rogue alone can dodge-roll clear of an incoming attack.</p>
     </div>
   </div>
 </article>
@@ -73,7 +73,7 @@ intro: >-
     <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
     <div>
       <h2>Blacksmith</h2>
-      <p class="desc">Blacksmiths forge daggers, claymores, glaives, sickles, maces and polearms, and appear on both the Combat and the Creation Path.</p>
+      <p class="desc">The blacksmith hammers out melee weapons: daggers, claymores, glaives, sickles, maces, and polearms. This class walks both the Combat and Creation paths.</p>
     </div>
   </div>
 </article>
@@ -83,7 +83,7 @@ intro: >-
     <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
     <div>
       <h2>Gunsmith</h2>
-      <p class="desc">Gunsmiths make firearms and cannons along with the mounts and loading gear they need, and appear on both the Combat and the Innovation Path.</p>
+      <p class="desc">A gunsmith builds firearms and cannons, together with the mounts and loading gear they need to run. The gunsmith belongs to both the Combat and Innovation paths.</p>
     </div>
   </div>
 </article>
@@ -96,7 +96,7 @@ intro: >-
     <img src="{{ '/icons/engineer.png' | relative_url }}" alt="">
     <div>
       <h2>Engineer</h2>
-      <p class="desc">Engineers automate work other classes do by hand, building shafts, gears, belts and powered machinery.</p>
+      <p class="desc">Engineers take the work other classes do by hand and set it running on its own, assembling shafts, gears, belts, and powered machinery.</p>
     </div>
   </div>
 </article>
@@ -106,7 +106,7 @@ intro: >-
     <img src="{{ '/icons/machinist.png' | relative_url }}" alt="">
     <div>
       <h2>Machinist</h2>
-      <p class="desc">Machinists assemble airships from propellers, bearings, burners and controls, though none will fly without an Engineer's machinery.</p>
+      <p class="desc">The machinist assembles airships out of propellers, bearings, burners, and controls. Those airships need an engineer's machinery before they can fly.</p>
     </div>
   </div>
 </article>
@@ -116,7 +116,7 @@ intro: >-
     <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
     <div>
       <h2>Gunsmith</h2>
-      <p class="desc">Gunsmiths make firearms and cannons along with the mounts and loading gear they need, and appear on both the Combat and the Innovation Path.</p>
+      <p class="desc">A gunsmith builds firearms and cannons, together with the mounts and loading gear they need to run. The gunsmith belongs to both the Combat and Innovation paths.</p>
     </div>
   </div>
 </article>
@@ -126,7 +126,7 @@ intro: >-
     <img src="{{ '/icons/originator.png' | relative_url }}" alt="">
     <div>
       <h2>Originator</h2>
-      <p class="desc">Originators generate and store electricity, building generators, solar panels, batteries and wiring to carry it.</p>
+      <p class="desc">An originator generates and stores electricity, putting together generators, solar panels, batteries, and the wiring that ties them together.</p>
     </div>
   </div>
 </article>
@@ -136,7 +136,7 @@ intro: >-
     <img src="{{ '/icons/alchemist.png' | relative_url }}" alt="">
     <div>
       <h2>Alchemist</h2>
-      <p class="desc">Alchemists brew every potion and are the only class able to work a brewing stand or cauldron, keeping their own potions longer while hostile effects fade sooner.</p>
+      <p class="desc">Only the alchemist can work a brewing stand or cauldron, which makes this class the sole source of potions and the brewer of every one. An alchemist's own potions last longer, and harmful effects wear off faster.</p>
     </div>
   </div>
 </article>
@@ -146,7 +146,7 @@ intro: >-
     <img src="{{ '/icons/enchanter.png' | relative_url }}" alt="">
     <div>
       <h2>Enchanter</h2>
-      <p class="desc">Enchanters forge ancient books, pushing any enchantment one level past the world's cap.</p>
+      <p class="desc">The enchanter writes ancient books and can push any enchantment one level past its normal cap.</p>
     </div>
   </div>
 </article>
@@ -159,7 +159,7 @@ intro: >-
     <img src="{{ '/icons/builder.png' | relative_url }}" alt="">
     <div>
       <h2>Builder</h2>
-      <p class="desc">Builders shape stone, wood and metal into hundreds of decorative variants across eight cutting stations, and reach half a block further to place and break.</p>
+      <p class="desc">A builder turns stone, wood, and metal into hundreds of decorative blocks across eight cutting stations. Outside of combat, the builder reaches half a block farther to place and break blocks.</p>
     </div>
   </div>
 </article>
@@ -169,7 +169,7 @@ intro: >-
     <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
     <div>
       <h2>Blacksmith</h2>
-      <p class="desc">Blacksmiths forge daggers, claymores, glaives, sickles, maces and polearms, and appear on both the Combat and the Creation Path.</p>
+      <p class="desc">The blacksmith hammers out melee weapons: daggers, claymores, glaives, sickles, maces, and polearms. This class walks both the Combat and Creation paths.</p>
     </div>
   </div>
 </article>
@@ -179,7 +179,7 @@ intro: >-
     <img src="{{ '/icons/jeweler.png' | relative_url }}" alt="">
     <div>
       <h2>Jeweler</h2>
-      <p class="desc">Jewelers cut rings and necklaces on a jeweler's kit, adding stats from accessory slots rather than from armor.</p>
+      <p class="desc">The jeweler cuts rings and necklaces at a jeweler's kit and draws its bonuses from accessory slots rather than from armor.</p>
     </div>
   </div>
 </article>
@@ -189,7 +189,7 @@ intro: >-
     <img src="{{ '/icons/cook.png' | relative_url }}" alt="">
     <div>
       <h2>Cook</h2>
-      <p class="desc">Cooks work the gristmill, cooking pot, cutting board, skillet and stove, preparing dishes to restore health.</p>
+      <p class="desc">A cook prepares dishes that restore health, working the gristmill, cooking pot, cutting board, skillet, and stove.</p>
     </div>
   </div>
 </article>
