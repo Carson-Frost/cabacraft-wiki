@@ -23,7 +23,7 @@ intro: >-
     <img src="{{ '/icons/warrior.png' | relative_url }}" alt="">
     <div>
       <h2>Warrior</h2>
-      <p class="desc">The Warrior is a heavy melee fighter in plate. Warriors typically swing claymores, maces and great hammers. They craft the Warrior plate line, and the armor itself adds attack damage. A Warrior deals 5% more melee damage than any other Class, with any weapon.</p>
+      <p class="desc">The Warrior is the heavy melee fighter. Warriors typically swing claymores, maces and great hammers. They craft the Warrior plate line, and the armor itself favors attack damage. Any weapon in a Warrior's hands deals 5% more melee damage than in any other Class's.</p>
     </div>
   </div>
 </article>
@@ -33,7 +33,7 @@ intro: >-
     <img src="{{ '/icons/ranger.png' | relative_url }}" alt="">
     <div>
       <h2>Ranger</h2>
-      <p class="desc">The Ranger fights from a distance with longbows, crossbows, muskets and pistols. Rangers craft those weapons, the ammunition, and the light Ranger armor. The armor adds ranged damage. Every Ranger gets 5% more ranged damage than any other Class.</p>
+      <p class="desc">Rangers cover ranged combat with longbows, crossbows, muskets and pistols. They craft those weapons and their ammunition, plus the light Ranger armor line, which carries ranged damage. Every Ranger deals 5% more ranged damage than any other Class.</p>
     </div>
   </div>
 </article>
@@ -43,7 +43,7 @@ intro: >-
     <img src="{{ '/icons/mage.png' | relative_url }}" alt="">
     <div>
       <h2>Mage</h2>
-      <p class="desc">A Mage casts spells from four schools: general wizardry, arcane, fire and frost. Mages make the staves and wands of all four schools. They also craft the robes, which boost spell power. A Mage has 5% more spell power than any other Class.</p>
+      <p class="desc">Mages cast from four schools: general wizardry, arcane, fire and frost. Every staff, wand and robe line in those schools comes from a Mage, and the robes boost spell power. A Mage has 5% more spell power than any other Class.</p>
     </div>
   </div>
 </article>
@@ -53,7 +53,7 @@ intro: >-
     <img src="{{ '/icons/paladin.png' | relative_url }}" alt="">
     <div>
       <h2>Paladin</h2>
-      <p class="desc">The Paladin fights in melee and heals with holy wands and staves. Paladins craft two armor lines: plate and Priest robes. The plate adds healing of its own; the robes boost healing power. Healing a Paladin casts is 5% stronger than any other Class's.</p>
+      <p class="desc">Paladins fight in melee and heal with holy wands and staves they craft themselves. Their two armor lines split the job: Paladin plate carries healing of its own, Priest robes boost healing power. A Paladin's healing is 5% stronger than any other Class's.</p>
     </div>
   </div>
 </article>
@@ -63,7 +63,7 @@ intro: >-
     <img src="{{ '/icons/rogue.png' | relative_url }}" alt="">
     <div>
       <h2>Rogue</h2>
-      <p class="desc">Rogues fight up close, usually with daggers. Rogues make their own light armor. It adds evasion and attack speed. Only the Rogue has the combat roll, a quick dodge in any direction. The roll recharges every 4 seconds.</p>
+      <p class="desc">The Rogue fights fast and light, usually with daggers. Rogues craft the Rogue armor line, which carries evasion and attack speed. Only a Rogue can combat roll: a quick dodge in any direction, once every 4 seconds.</p>
     </div>
   </div>
 </article>
@@ -73,7 +73,7 @@ intro: >-
     <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
     <div>
       <h2>Blacksmith</h2>
-      <p class="desc">Blacksmiths forge the specialized melee weapons: claymores, daggers, glaives, sickles, maces, great hammers, double axes and spears. They also forge a handful of unique blades. Basic swords and axes stay open to everyone.</p>
+      <p class="desc">Melee weapons past the basics come from the Blacksmith: claymores, daggers, glaives, sickles, maces, great hammers, double axes and spears, plus a handful of unique blades above them. Everyone keeps the basic sword and axe.</p>
     </div>
   </div>
 </article>
@@ -83,7 +83,7 @@ intro: >-
     <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
     <div>
       <h2>Gunsmith</h2>
-      <p class="desc">Only Gunsmiths craft the four handheld guns: revolver, shotgun, nailgun and blazegun. They also make the mounts, carriages, loaders and drills that emplace and serve a cannon.</p>
+      <p class="desc">Gunsmiths make the handheld guns: revolver, shotgun, nailgun and blazegun. They also build the gear that emplaces and serves a cannon (mounts, carriages, loaders and drills), though the cannon itself comes from parts anyone can make.</p>
     </div>
   </div>
 </article>
@@ -96,7 +96,7 @@ intro: >-
     <img src="{{ '/icons/engineer.png' | relative_url }}" alt="">
     <div>
       <h2>Engineer</h2>
-      <p class="desc">Engineers build machines that run on rotation. Water wheels and hand cranks make the rotation. Gearboxes, clutches and belts carry it to the millstone, mechanical press, mixer, saw, drill, deployer and mechanical arm. Engineers craft every part of that chain.</p>
+      <p class="desc">Rotation powers everything Engineers build. They craft the water wheels and hand cranks that generate it, the gearboxes, clutches and belts that carry it, and the machines it drives: millstone, mechanical press, mixer, saw, drill, deployer and mechanical arm.</p>
     </div>
   </div>
 </article>
@@ -106,7 +106,7 @@ intro: >-
     <img src="{{ '/icons/machinist.png' | relative_url }}" alt="">
     <div>
       <h2>Machinist</h2>
-      <p class="desc">A Machinist assembles working airships. Machinists make the propellers, the bearings a ship turns on, the adjustable burner and aviator's goggles.</p>
+      <p class="desc">An airship needs a Machinist. Machinists craft the propellers, the propeller bearings a ship turns on, the adjustable burner and the aviator's goggles.</p>
     </div>
   </div>
 </article>
@@ -116,7 +116,7 @@ intro: >-
     <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
     <div>
       <h2>Gunsmith</h2>
-      <p class="desc">Only Gunsmiths craft the four handheld guns: revolver, shotgun, nailgun and blazegun. They also make the mounts, carriages, loaders and drills that emplace and serve a cannon.</p>
+      <p class="desc">Gunsmiths make the handheld guns: revolver, shotgun, nailgun and blazegun. They also build the gear that emplaces and serves a cannon (mounts, carriages, loaders and drills), though the cannon itself comes from parts anyone can make.</p>
     </div>
   </div>
 </article>
@@ -126,7 +126,7 @@ intro: >-
     <img src="{{ '/icons/originator.png' | relative_url }}" alt="">
     <div>
       <h2>Originator</h2>
-      <p class="desc">The Originator works with electricity, separate from the Engineer's rotating machines. Originators make fuel, bio and solar generators, plus batteries and energy pipes. They also build the frames and cores that every electric machine starts from. Those machines refine ores and fabricate advanced components.</p>
+      <p class="desc">The Originator builds electric machinery, a separate technology from the Engineer's rotation. Originators craft fuel, bio and solar generators, batteries, energy pipes, and the frames and cores that underpin every electric machine; the finished machines refine ores and fabricate advanced components.</p>
     </div>
   </div>
 </article>
@@ -136,7 +136,7 @@ intro: >-
     <img src="{{ '/icons/alchemist.png' | relative_url }}" alt="">
     <div>
       <h2>Alchemist</h2>
-      <p class="desc">Only the Alchemist can use a brewing stand or a glass cauldron. Every potion comes from an Alchemist. They brew from up to nine ingredients, and order changes the result. Their elixirs last 10 seconds longer. Harmful effects on them fade 10 seconds sooner.</p>
+      <p class="desc">Alchemists brew every potion in the world; only they can use a brewing stand or glass cauldron. They mix elixirs from up to nine ingredients, and order changes the result. Elixirs they drink last 10 seconds longer, and harmful effects on them fade 10 seconds sooner.</p>
     </div>
   </div>
 </article>
@@ -146,7 +146,7 @@ intro: >-
     <img src="{{ '/icons/enchanter.png' | relative_url }}" alt="">
     <div>
       <h2>Enchanter</h2>
-      <p class="desc">The Enchanter enchants one level past every cap. Sharpness stops at II for everyone; an Enchanter reaches III. The same holds for all 33 capped enchantments. Enchanters also craft the Ancient Book. The enchanting table runs on these books, and each one stores one enchantment.</p>
+      <p class="desc">Enchantments stop at a cap for everyone except the Enchanter, who goes one level past it on all 33. Where Sharpness ends at II, an Enchanter takes it to III. They also craft the Ancient Book the enchanting table runs on; each book holds one enchantment.</p>
     </div>
   </div>
 </article>
@@ -159,7 +159,7 @@ intro: >-
     <img src="{{ '/icons/builder.png' | relative_url }}" alt="">
     <div>
       <h2>Builder</h2>
-      <p class="desc">A Builder specializes in construction and decoration. Builders craft the specialist workstations. Those stations produce hundreds of decorative variants of common building blocks. Builders place and break blocks from 0.5 blocks farther away. Combat reach stays unchanged.</p>
+      <p class="desc">Builders turn common building blocks into decoration. They craft the specialist workstations and, on those, hundreds of decorative variants. A Builder also reaches 0.5 blocks farther when placing or breaking blocks; combat reach stays the same.</p>
     </div>
   </div>
 </article>
@@ -169,7 +169,7 @@ intro: >-
     <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
     <div>
       <h2>Blacksmith</h2>
-      <p class="desc">Blacksmiths forge the specialized melee weapons: claymores, daggers, glaives, sickles, maces, great hammers, double axes and spears. They also forge a handful of unique blades. Basic swords and axes stay open to everyone.</p>
+      <p class="desc">Melee weapons past the basics come from the Blacksmith: claymores, daggers, glaives, sickles, maces, great hammers, double axes and spears, plus a handful of unique blades above them. Everyone keeps the basic sword and axe.</p>
     </div>
   </div>
 </article>
@@ -179,7 +179,7 @@ intro: >-
     <img src="{{ '/icons/jeweler.png' | relative_url }}" alt="">
     <div>
       <h2>Jeweler</h2>
-      <p class="desc">The Jeweler cuts jade and tanzanite into rings and necklaces. Players wear the pieces alongside armor. Jade boosts ranged damage, and tanzanite boosts frost and soul spell power. Gold pieces carry a 4% bonus, and netherite pieces carry 8%.</p>
+      <p class="desc">The Jeweler cuts jade and tanzanite and sets them in gold and netherite rings and necklaces a player wears alongside armor. Jade boosts ranged damage and tanzanite boosts frost and soul spell power; gold pieces give 4%, netherite 8%.</p>
     </div>
   </div>
 </article>
@@ -189,7 +189,7 @@ intro: >-
     <img src="{{ '/icons/cook.png' | relative_url }}" alt="">
     <div>
       <h2>Cook</h2>
-      <p class="desc">A Cook prepares the dishes: breads and pies, stews and soups, salads and roasts. Cooks also make cake, pumpkin pie, milk and the feast blocks a whole group eats from. They build the five kitchen stations too: cooking pot, skillet, cutting board, stove and gristmill.</p>
+      <p class="desc">Cooks feed everyone. They prepare the breads, pies, stews, soups, salads, roasts and candies, plus feast blocks sized for a whole group. They also build the five kitchen stations: cooking pot, skillet, cutting board, stove and gristmill.</p>
     </div>
   </div>
 </article>
@@ -201,7 +201,7 @@ intro: >-
     <img src="{{ '/icons/angler.png' | relative_url }}" alt="">
     <div>
       <h2>Angler</h2>
-      <p class="desc">Fishing runs easier for an Angler. The catch bar drains 20% slower, and a miss costs 20% less. A catch needs 20% less score, and sweet spots last 25% longer. Anglers craft their own rods, hooks and bobbers. The basic rod stays open to everyone.</p>
+      <p class="desc">Anglers fish better than anyone else: the catch bar drains 20% slower, misses cost 20% less, catches need 20% less score, and sweet spots last 25% longer. They craft their own rods, hooks and bobbers; anyone can still craft the basic rod.</p>
     </div>
   </div>
 </article>
@@ -211,7 +211,7 @@ intro: >-
     <img src="{{ '/icons/archaeologist.png' | relative_url }}" alt="">
     <div>
       <h2>Archaeologist</h2>
-      <p class="desc">Archaeologists unearth fossils and artifacts from dig sites with tools they craft. The diamond brush uncovers buried finds, and the rusty pickaxe and shovel work them loose. Fossils reassemble into display skeletons. An Archaeologist pieces artifact shards back together into artifacts.</p>
+      <p class="desc">Archaeologists craft their own excavation tools and dig up the past. The diamond brush uncovers fossils and artifacts in dig sites; the rusty pickaxe and shovel work them loose. Fossils reassemble into display skeletons, and an Archaeologist pieces shards back into whole artifacts.</p>
     </div>
   </div>
 </article>
@@ -221,7 +221,7 @@ intro: >-
     <img src="{{ '/icons/bard.png' | relative_url }}" alt="">
     <div>
       <h2>Bard</h2>
-      <p class="desc">The Bard performs music and crafts every playable instrument. Only the Bard can recruit: a Bard hires any villager without a profession. The price scales with how many trade offers the villager holds. Trading works for everyone as normal.</p>
+      <p class="desc">Bards make music and craft every playable instrument. Recruiting is theirs alone: a Bard hires any villager that has no profession, and the price climbs with the villager's trade offers. Ordinary trading stays open to everyone.</p>
     </div>
   </div>
 </article>
@@ -231,7 +231,7 @@ intro: >-
     <img src="{{ '/icons/brewer.png' | relative_url }}" alt="">
     <div>
       <h2>Brewer</h2>
-      <p class="desc">Brewers ferment drinks. They craft the keg, the mug and hop seeds. The keg brews twelve beers, and each beer carries its own effect. Their fermentation vessel turns out ciders, wines, mead, pickles and popped maize.</p>
+      <p class="desc">The Brewer handles fermentation. Twelve beers come out of a Brewer's keg, each with its own effect, and the fermentation vessel turns out ciders, wines, mead, pickles and popped maize. Brewers craft the keg, the mug, the hop seeds and the vessel itself.</p>
     </div>
   </div>
 </article>
@@ -241,7 +241,7 @@ intro: >-
     <img src="{{ '/icons/curator.png' | relative_url }}" alt="">
     <div>
       <h2>Curator</h2>
-      <p class="desc">A Curator records the world. Curators make the camera and its film for real photographs. Their bestiary and its analyzer catalog creatures. Curators also craft the antique atlas for mapping and the diary for writing. A new Curator starts with the bestiary.</p>
+      <p class="desc">Curators document the world. They craft the camera and its film for real photographs, the bestiary and its analyzer for cataloging creatures, the antique atlas for mapping, and the diary for writing. Curators begin with the bestiary.</p>
     </div>
   </div>
 </article>
@@ -251,7 +251,7 @@ intro: >-
     <img src="{{ '/icons/herbalist.png' | relative_url }}" alt="">
     <div>
       <h2>Herbalist</h2>
-      <p class="desc">Herbalists farm two crops, hemp and weed. From the harvests they make cloth and burlap in every dye color. Pipes, bongs, joints and brownies come from the same crops. Herbalists also make the remedies: herbal salve, ritual oils, a cleansing concoction, an aura crystal and teas.</p>
+      <p class="desc">Herbalists farm hemp and weed and turn the harvest into goods: cloth and burlap in every dye color, pipes, bongs, joints and brownies. They also craft the remedies: herbal salve, two ritual oils, a cleansing concoction, an aura crystal and the herbal teas.</p>
     </div>
   </div>
 </article>
@@ -261,7 +261,7 @@ intro: >-
     <img src="{{ '/icons/shipwright.png' | relative_url }}" alt="">
     <div>
       <h2>Shipwright</h2>
-      <p class="desc">A Shipwright builds sailing ships. Shipwrights craft dockside frames called ship builders. Each frame takes logs, planks, iron, wool and wax. It then assembles a working sailboat, cog or caravel a crew can sail. A separate decorative frame makes display hulls.</p>
+      <p class="desc">Shipwrights build sailing ships. They craft the dockside ship builders, which take logs, planks, iron, wool and wax and assemble a working sailboat, cog or caravel a crew can actually sail, plus a decorative builder for display hulls.</p>
     </div>
   </div>
 </article>
@@ -271,7 +271,7 @@ intro: >-
     <img src="{{ '/icons/tailor.png' | relative_url }}" alt="">
     <div>
       <h2>Tailor</h2>
-      <p class="desc">Tailors sew clothing. They make the sewing kit and sewing table. On them, they sew hats, aprons for every trade, scarves, coats and robes. Biome outfits for desert, savanna, jungle, snowy and taiga warm or cool the wearer to match.</p>
+      <p class="desc">The Tailor makes clothing: hats, aprons for every trade, scarves, coats, robes and full biome outfits; the desert, savanna, jungle, snowy and taiga sets warm or cool their wearer to match. Tailors also craft the sewing kit and sewing table.</p>
     </div>
   </div>
 </article>
