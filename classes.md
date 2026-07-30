@@ -33,7 +33,7 @@ intro: >-
     <img src="{{ '/icons/ranger.png' | relative_url }}" alt="">
     <div>
       <h2>Ranger</h2>
-      <p class="desc"></p>
+      <p class="desc">Can craft customized bows and crossbows, muskets and pistols, plus Ranger armor sets with light armor and boosts to ranged damage.</p>
     </div>
   </div>
 </article>
