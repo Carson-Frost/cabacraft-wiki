@@ -53,7 +53,7 @@ intro: >-
     <img src="{{ '/icons/paladin.png' | relative_url }}" alt="">
     <div>
       <h2>Paladin</h2>
-      <p class="desc"></p>
+      <p class="desc">Can craft plate, robes, holy staves, wands, and shields that aid in holy magic through healing and shielding teammates and dealing holy damage. Paladins also get a flat 5% more healing power.</p>
     </div>
   </div>
 </article>
