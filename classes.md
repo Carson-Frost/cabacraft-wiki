@@ -23,7 +23,7 @@ intro: >-
     <img src="{{ '/icons/warrior.png' | relative_url }}" alt="">
     <div>
       <h2>Warrior</h2>
-      <p class="desc">Can craft all Warrior armor sets, heavy plate with high toughness that often boosts melee damage. Deals 5% more melee damage than any other Class.</p>
+      <p class="desc">Can craft Warrior armor sets with strong armor, high toughness, and boosts to melee damage. Warriors also get a flat 5% more melee damage.</p>
     </div>
   </div>
 </article>
@@ -33,7 +33,7 @@ intro: >-
     <img src="{{ '/icons/ranger.png' | relative_url }}" alt="">
     <div>
       <h2>Ranger</h2>
-      <p class="desc">Can craft bows, crossbows, muskets and pistols, plus the Ranger armor sets, which often boost ranged damage. Deals 5% more ranged damage than any other Class.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -43,7 +43,7 @@ intro: >-
     <img src="{{ '/icons/mage.png' | relative_url }}" alt="">
     <div>
       <h2>Mage</h2>
-      <p class="desc">Can craft the staves, wands and robes of all four spell schools: wizardry, arcane, fire and frost. The robes often boost spell power, and a Mage has 5% more spell power than any other Class.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -53,7 +53,7 @@ intro: >-
     <img src="{{ '/icons/paladin.png' | relative_url }}" alt="">
     <div>
       <h2>Paladin</h2>
-      <p class="desc">Can craft Paladin plate and Priest robes, which often boost healing, plus holy wands, staves and kite shields. Has 5% more healing power than any other Class.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -63,7 +63,7 @@ intro: >-
     <img src="{{ '/icons/rogue.png' | relative_url }}" alt="">
     <div>
       <h2>Rogue</h2>
-      <p class="desc">Can craft the light Rogue armor sets, which often boost evasion and attack speed. The only Class able to combat roll: a quick dodge, once every 4 seconds.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -73,7 +73,7 @@ intro: >-
     <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
     <div>
       <h2>Blacksmith</h2>
-      <p class="desc">Can craft the melee weapons beyond the basic sword and axe: daggers, claymores, maces, great hammers, double axes, glaives, sickles and spears.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -83,7 +83,7 @@ intro: >-
     <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
     <div>
       <h2>Gunsmith</h2>
-      <p class="desc">Can craft the revolver, shotgun, nailgun and blazegun, plus the mounts, carriages, loaders and drills that serve a cannon.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -96,7 +96,7 @@ intro: >-
     <img src="{{ '/icons/engineer.png' | relative_url }}" alt="">
     <div>
       <h2>Engineer</h2>
-      <p class="desc">Can craft the rotation machinery: water wheels and hand cranks that generate power, gearboxes and belts that carry it, and machines like the millstone, press, mixer, saw, drill and mechanical arm.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -106,7 +106,7 @@ intro: >-
     <img src="{{ '/icons/machinist.png' | relative_url }}" alt="">
     <div>
       <h2>Machinist</h2>
-      <p class="desc">Can craft the parts an airship flies on: propellers, propeller bearings and the adjustable burner, plus the aviator's goggles.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -116,7 +116,7 @@ intro: >-
     <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
     <div>
       <h2>Gunsmith</h2>
-      <p class="desc">Can craft the revolver, shotgun, nailgun and blazegun, plus the mounts, carriages, loaders and drills that serve a cannon.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -126,7 +126,7 @@ intro: >-
     <img src="{{ '/icons/originator.png' | relative_url }}" alt="">
     <div>
       <h2>Originator</h2>
-      <p class="desc">Can craft electric machinery, a separate technology from the Engineer's rotation: fuel, bio and solar generators, batteries, energy pipes, and the frames and cores at the base of every electric machine.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -136,7 +136,7 @@ intro: >-
     <img src="{{ '/icons/alchemist.png' | relative_url }}" alt="">
     <div>
       <h2>Alchemist</h2>
-      <p class="desc">The only Class that can brew: potions exist only as elixirs, mixed in a glass cauldron from up to nine ingredients. Elixirs an Alchemist drinks last 10 seconds longer, and harmful effects fade 10 seconds sooner.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -146,7 +146,7 @@ intro: >-
     <img src="{{ '/icons/enchanter.png' | relative_url }}" alt="">
     <div>
       <h2>Enchanter</h2>
-      <p class="desc">Can enchant one level past the cap that stops everyone else, on all 33 capped enchantments: where Sharpness ends at II, an Enchanter reaches III. Also crafts the Ancient Books the enchanting table needs, each holding one enchantment.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -159,7 +159,7 @@ intro: >-
     <img src="{{ '/icons/builder.png' | relative_url }}" alt="">
     <div>
       <h2>Builder</h2>
-      <p class="desc">Can craft eight specialist workbenches and use them to turn common blocks into hundreds of decorative variants. Also reaches half a block farther when placing or breaking blocks.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -169,7 +169,7 @@ intro: >-
     <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
     <div>
       <h2>Blacksmith</h2>
-      <p class="desc">Can craft the melee weapons beyond the basic sword and axe: daggers, claymores, maces, great hammers, double axes, glaives, sickles and spears.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -179,7 +179,7 @@ intro: >-
     <img src="{{ '/icons/jeweler.png' | relative_url }}" alt="">
     <div>
       <h2>Jeweler</h2>
-      <p class="desc">Can craft rings and necklaces worn alongside armor: jade boosts ranged damage and tanzanite boosts frost and soul spell power, 4% each, 8% for the netherite versions.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -189,7 +189,7 @@ intro: >-
     <img src="{{ '/icons/cook.png' | relative_url }}" alt="">
     <div>
       <h2>Cook</h2>
-      <p class="desc">Can craft nearly every prepared dish, from breads, stews and pies to feasts that serve a group, plus the five kitchen stations: cooking pot, skillet, cutting board, stove and gristmill.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -201,7 +201,7 @@ intro: >-
     <img src="{{ '/icons/angler.png' | relative_url }}" alt="">
     <div>
       <h2>Angler</h2>
-      <p class="desc">Can craft specialty fishing rods, hooks and bobbers. The fishing minigame is also 20% more forgiving on bar drain, misses and score, and sweet spots last 25% longer.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -211,7 +211,7 @@ intro: >-
     <img src="{{ '/icons/archaeologist.png' | relative_url }}" alt="">
     <div>
       <h2>Archaeologist</h2>
-      <p class="desc">Can craft the diamond brush that uncovers fossils and artifacts at dig sites, plus the rusty pickaxe and shovel that work them loose.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -221,7 +221,7 @@ intro: >-
     <img src="{{ '/icons/bard.png' | relative_url }}" alt="">
     <div>
       <h2>Bard</h2>
-      <p class="desc">Can craft every instrument, from the lute and flute to the piano, and is the only one able to recruit villagers that have no profession.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -231,7 +231,7 @@ intro: >-
     <img src="{{ '/icons/brewer.png' | relative_url }}" alt="">
     <div>
       <h2>Brewer</h2>
-      <p class="desc">Can craft the keg that brews twelve beers, each with its own effect, and the fermentation vessel that turns out ciders, wines, mead, pickles and popped maize.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -241,7 +241,7 @@ intro: >-
     <img src="{{ '/icons/curator.png' | relative_url }}" alt="">
     <div>
       <h2>Curator</h2>
-      <p class="desc">Can craft the tools that document the world: a camera and its film, the bestiary and its analyzer, and a diary to write in.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -251,7 +251,7 @@ intro: >-
     <img src="{{ '/icons/herbalist.png' | relative_url }}" alt="">
     <div>
       <h2>Herbalist</h2>
-      <p class="desc">Can grow hemp and weed, then work the harvest into cloth and burlap, pipes and brownies. Also crafts the remedies: herbal salve, ritual oils and herbal teas.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -261,7 +261,7 @@ intro: >-
     <img src="{{ '/icons/shipwright.png' | relative_url }}" alt="">
     <div>
       <h2>Shipwright</h2>
-      <p class="desc">Can craft the dockside ship builders that assemble working sailboats, cogs and caravels, plus a decorative builder for display hulls.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
@@ -271,7 +271,7 @@ intro: >-
     <img src="{{ '/icons/tailor.png' | relative_url }}" alt="">
     <div>
       <h2>Tailor</h2>
-      <p class="desc">Can use the sewing table and sewing kit to make cosmetic clothing, and can craft hats, scarves, aprons and the biome outfits that warm or cool their wearer.</p>
+      <p class="desc"></p>
     </div>
   </div>
 </article>
