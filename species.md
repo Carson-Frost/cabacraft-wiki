@@ -284,11 +284,11 @@ intro: >-
     <img src="{{ '/icons/human_reach.png' | relative_url }}" alt="">
     <div>
       <h2>Long Reach</h2>
-      <p class="desc">Human trait. +1 block of reach on blocks. Combat reach is unchanged.</p>
+      <p class="desc">Human trait. +0.5 blocks of reach on blocks. Combat reach is unchanged.</p>
     </div>
   </div>
   <div class="pow">
-    <div><h3>Long Reach</h3><p>+1 block of reach on blocks. Combat reach is unchanged.</p></div>
+    <div><h3>Long Reach</h3><p>+0.5 blocks of reach on blocks. Combat reach is unchanged.</p></div>
   </div>
 </article>
 <article id="human_surefooted">
