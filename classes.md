@@ -43,7 +43,7 @@ intro: >-
     <img src="{{ '/icons/mage.png' | relative_url }}" alt="">
     <div>
       <h2>Mage</h2>
-      <p class="desc"></p>
+      <p class="desc">Can craft staves, wands, and robes/armor that aid in spell casting through arcane, fire, frost, or a balanced approach to all three powers. Mages also get a flat 5% more general spell power.</p>
     </div>
   </div>
 </article>
