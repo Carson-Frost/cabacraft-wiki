@@ -201,7 +201,7 @@ intro: >-
     <img src="{{ '/icons/angler.png' | relative_url }}" alt="">
     <div>
       <h2>Angler</h2>
-      <p class="desc">Can craft specialty fishing rods, hooks and bobbers. Fishing is also easier: the catch bar drains 20% slower, misses cost 20% less, catches need 20% less score, and sweet spots last 25% longer.</p>
+      <p class="desc">Can craft specialty fishing rods, hooks and bobbers. The fishing minigame is also 20% more forgiving on bar drain, misses and score, and sweet spots last 25% longer.</p>
     </div>
   </div>
 </article>
@@ -251,7 +251,7 @@ intro: >-
     <img src="{{ '/icons/herbalist.png' | relative_url }}" alt="">
     <div>
       <h2>Herbalist</h2>
-      <p class="desc">Can grow hemp and weed and work the harvest into cloth and burlap in every color, pipes, bongs, joints and brownies, plus remedies: herbal salve, ritual oils, teas and a cleansing concoction.</p>
+      <p class="desc">Can grow hemp and weed, then work the harvest into cloth and burlap, pipes and brownies. Also crafts the remedies: herbal salve, ritual oils and herbal teas.</p>
     </div>
   </div>
 </article>
