@@ -63,7 +63,7 @@ intro: >-
     <img src="{{ '/icons/rogue.png' | relative_url }}" alt="">
     <div>
       <h2>Rogue</h2>
-      <p class="desc"></p>
+      <p class="desc">Can craft light armor that aids in evasion and attack speed. Rogues are the only Class that can combat roll, a quick dodge once every 4 seconds.</p>
     </div>
   </div>
 </article>
