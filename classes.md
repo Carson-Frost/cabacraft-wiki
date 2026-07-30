@@ -73,7 +73,7 @@ intro: >-
     <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
     <div>
       <h2>Blacksmith</h2>
-      <p class="desc"></p>
+      <p class="desc">Can craft melee weapon variants including daggers, claymores, maces, great hammers, double axes, glaives, sickles, and spears, each with unique fighting styles and uses. Different variants may suit different classes' fighting styles, making the Blacksmith an important resource to other players.</p>
     </div>
   </div>
 </article>
@@ -83,7 +83,7 @@ intro: >-
     <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
     <div>
       <h2>Gunsmith</h2>
-      <p class="desc"></p>
+      <p class="desc">Can construct siege artillery and mechanical weaponry, from the nailgun and blazegun to the mounts, carriages, loaders, and drills that assemble a cannon. Spanning combat and innovation, the Gunsmith dominates combat through invention rather than individual skill or power, and its artillery makes it an important resource to a faction.</p>
     </div>
   </div>
 </article>
@@ -116,7 +116,7 @@ intro: >-
     <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
     <div>
       <h2>Gunsmith</h2>
-      <p class="desc"></p>
+      <p class="desc">Can construct siege artillery and mechanical weaponry, from the nailgun and blazegun to the mounts, carriages, loaders, and drills that assemble a cannon. Spanning combat and innovation, the Gunsmith dominates combat through invention rather than individual skill or power, and its artillery makes it an important resource to a faction.</p>
     </div>
   </div>
 </article>
@@ -169,7 +169,7 @@ intro: >-
     <img src="{{ '/icons/blacksmith.png' | relative_url }}" alt="">
     <div>
       <h2>Blacksmith</h2>
-      <p class="desc"></p>
+      <p class="desc">Can craft melee weapon variants including daggers, claymores, maces, great hammers, double axes, glaives, sickles, and spears, each with unique fighting styles and uses. Different variants may suit different classes' fighting styles, making the Blacksmith an important resource to other players.</p>
     </div>
   </div>
 </article>
