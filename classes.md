@@ -96,7 +96,7 @@ intro: >-
     <img src="{{ '/icons/engineer.png' | relative_url }}" alt="">
     <div>
       <h2>Engineer</h2>
-      <p class="desc"></p>
+      <p class="desc">Can craft processing and automation machines needed to maximize the Create mod: the press, mixer, millstone, deployer, mechanical arm, saw, drill, and harvester, as well as the technology needed to power these machines, such as water wheels, gears, and belts.</p>
     </div>
   </div>
 </article>
