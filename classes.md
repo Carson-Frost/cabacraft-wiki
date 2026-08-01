@@ -126,7 +126,7 @@ intro: >-
     <img src="{{ '/icons/originator.png' | relative_url }}" alt="">
     <div>
       <h2>Originator</h2>
-      <p class="desc"></p>
+      <p class="desc">Can craft an electric power network, separate from Create, that generates and stores its own electricity to run machines for mining, processing, and manufacturing: generators, solar panels, batteries, energy pipes, and machine frames and cores. This tech also gives unique access to progression-essential, refined ingots like biosteel, adamant, duratium, prometheum, and energite.</p>
     </div>
   </div>
 </article>
