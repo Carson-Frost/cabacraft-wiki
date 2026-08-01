@@ -136,7 +136,7 @@ intro: >-
     <img src="{{ '/icons/alchemist.png' | relative_url }}" alt="">
     <div>
       <h2>Alchemist</h2>
-      <p class="desc"></p>
+      <p class="desc">Ars Elixirum replaces conventional potion brewing entirely, and the Alchemist is the only Class that can use it. Crafting the glass cauldron and alchemist eye, they create, customize, and save their own recipes for elixirs, powerful replacements for potions.</p>
     </div>
   </div>
 </article>
