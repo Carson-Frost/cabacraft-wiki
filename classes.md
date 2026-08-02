@@ -159,7 +159,7 @@ intro: >-
     <img src="{{ '/icons/builder.png' | relative_url }}" alt="">
     <div>
       <h2>Builder</h2>
-      <p class="desc"></p>
+      <p class="desc">Can craft thousands of decorative variants of wood, stone, glass, and more through eight additional exclusive workstations. Builders also reach half a block farther when placing and breaking.</p>
     </div>
   </div>
 </article>
