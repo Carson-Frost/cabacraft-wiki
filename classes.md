@@ -179,7 +179,7 @@ intro: >-
     <img src="{{ '/icons/jeweler.png' | relative_url }}" alt="">
     <div>
       <h2>Jeweler</h2>
-      <p class="desc"></p>
+      <p class="desc">Can craft rings and necklaces from mined gems, customized to specific combat classes with bonuses that make each even stronger, making them a valuable resource to all combat classes.</p>
     </div>
   </div>
 </article>
