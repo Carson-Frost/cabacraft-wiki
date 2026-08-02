@@ -146,7 +146,7 @@ intro: >-
     <img src="{{ '/icons/enchanter.png' | relative_url }}" alt="">
     <div>
       <h2>Enchanter</h2>
-      <p class="desc"></p>
+      <p class="desc">In CabaCraft enchantments are capped lower than in vanilla Minecraft. Most enchantments are capped at II, like Sharpness or Protection, with variants typically capped at IV, like Smite or Projectile Protection. The Enchanter is able to reach one level higher on all of these enchantments, making them a vital resource to all players and factions.</p>
     </div>
   </div>
 </article>
