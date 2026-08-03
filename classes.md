@@ -194,6 +194,16 @@ intro: >-
   </div>
 </article>
 
+<article id="bard">
+  <div class="head">
+    <img src="{{ '/icons/bard.png' | relative_url }}" alt="">
+    <div>
+      <h2>Bard</h2>
+      <p class="desc">Bards can wear the Entertainer's costume to recruit villagers, a power unique to them. They also craft musical instruments, including the flute, lute, trumpet, bagpipe, and piano.</p>
+    </div>
+  </div>
+</article>
+
 </div>
 <div class="group" id="g4">
 <article id="angler">
@@ -212,16 +222,6 @@ intro: >-
     <div>
       <h2>Archaeologist</h2>
       <p class="desc"></p>
-    </div>
-  </div>
-</article>
-
-<article id="bard">
-  <div class="head">
-    <img src="{{ '/icons/bard.png' | relative_url }}" alt="">
-    <div>
-      <h2>Bard</h2>
-      <p class="desc">Bards can wear the Entertainer's costume to recruit villagers, a power unique to them. They also craft musical instruments, including the flute, lute, trumpet, bagpipe, and piano.</p>
     </div>
   </div>
 </article>
