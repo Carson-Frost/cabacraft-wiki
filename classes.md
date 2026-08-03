@@ -106,7 +106,7 @@ intro: >-
     <img src="{{ '/icons/machinist.png' | relative_url }}" alt="">
     <div>
       <h2>Machinist</h2>
-      <p class="desc"></p>
+      <p class="desc">Can build airships from their propellers, bearings, and burners, and crafts the same Create power train as the Engineer: water wheels, gears, shafts, and belts.</p>
     </div>
   </div>
 </article>
@@ -189,7 +189,7 @@ intro: >-
     <img src="{{ '/icons/cook.png' | relative_url }}" alt="">
     <div>
       <h2>Cook</h2>
-      <p class="desc"></p>
+      <p class="desc">In CabaCraft a player builds their health by eating, climbing from five hearts toward fifteen on a varied diet of quality food. The Cook is the only Class that can prepare dishes, baked goods, sweets, preserves, and drinks on the cooking pot, skillet, stove, cutting board, and gristmill, making them a valuable resource to every player.</p>
     </div>
   </div>
 </article>
@@ -221,7 +221,7 @@ intro: >-
     <img src="{{ '/icons/bard.png' | relative_url }}" alt="">
     <div>
       <h2>Bard</h2>
-      <p class="desc"></p>
+      <p class="desc">Bards can wear the Entertainer's costume to recruit villagers, a power unique to them. They also craft musical instruments, including the flute, lute, trumpet, bagpipe, and piano.</p>
     </div>
   </div>
 </article>
@@ -231,7 +231,7 @@ intro: >-
     <img src="{{ '/icons/brewer.png' | relative_url }}" alt="">
     <div>
       <h2>Brewer</h2>
-      <p class="desc"></p>
+      <p class="desc">Can grow hops and ferment them into beer at the keg and mug, and works the fermentation vessel for ciders, wines, mead, and pickled foods.</p>
     </div>
   </div>
 </article>
@@ -251,7 +251,7 @@ intro: >-
     <img src="{{ '/icons/herbalist.png' | relative_url }}" alt="">
     <div>
       <h2>Herbalist</h2>
-      <p class="desc"></p>
+      <p class="desc">Can brew herbal consumables that buff, sharpen, and heal from the Herbalist's own hemp: empowering and focusing oils, restorative teas, and medicinal salves. The same hemp weaves into cloth and dyed burlap, essential to some important recipes.</p>
     </div>
   </div>
 </article>
