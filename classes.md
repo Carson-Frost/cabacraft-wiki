@@ -106,7 +106,7 @@ intro: >-
     <img src="{{ '/icons/machinist.png' | relative_url }}" alt="">
     <div>
       <h2>Machinist</h2>
-      <p class="desc">Can build airships from their propellers, bearings, and burners, and crafts the same Create power train as the Engineer: water wheels, gears, shafts, and belts.</p>
+      <p class="desc">Can build vehicles of every kind, airships, ground vehicles, and powered contraptions, crafting their propellers, wheels, engines, and bearings. The Machinist also crafts the same Create power train as the Engineer: water wheels, gears, shafts, and belts.</p>
     </div>
   </div>
 </article>
