@@ -246,16 +246,6 @@ intro: >-
   </div>
 </article>
 
-<article id="herbalist">
-  <div class="head">
-    <img src="{{ '/icons/herbalist.png' | relative_url }}" alt="">
-    <div>
-      <h2>Herbalist</h2>
-      <p class="desc">Can brew herbal consumables that buff, sharpen, and heal from the Herbalist's own hemp: empowering and focusing oils, restorative teas, and medicinal salves. The same hemp weaves into cloth and dyed burlap, essential to some important recipes.</p>
-    </div>
-  </div>
-</article>
-
 <article id="shipwright">
   <div class="head">
     <img src="{{ '/icons/shipwright.png' | relative_url }}" alt="">
