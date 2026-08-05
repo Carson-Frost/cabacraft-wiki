@@ -231,7 +231,7 @@ intro: >-
     <img src="{{ '/icons/archaeologist.png' | relative_url }}" alt="">
     <div>
       <h2>Archaeologist</h2>
-      <p class="desc"></p>
+      <p class="desc">Can excavate ruins for runes and artifacts, and craft them into powerful runestones and totems.</p>
     </div>
   </div>
 </article>
