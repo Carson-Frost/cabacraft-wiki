@@ -111,6 +111,16 @@ intro: >-
   </div>
 </article>
 
+<article id="technician">
+  <div class="head">
+    <img src="{{ '/icons/technician.png' | relative_url }}" alt="">
+    <div>
+      <h2>Technician</h2>
+      <p class="desc">Can build advanced modern technology, from digital storage to electronic surveillance: store, sort, and craft on demand across a network of controllers, drives, and grids, and monitor and broadcast a base with cameras, viewfinders, and televisions.</p>
+    </div>
+  </div>
+</article>
+
 <article id="gunsmith">
   <div class="head">
     <img src="{{ '/icons/gunsmith.png' | relative_url }}" alt="">
@@ -211,7 +221,7 @@ intro: >-
     <img src="{{ '/icons/angler.png' | relative_url }}" alt="">
     <div>
       <h2>Angler</h2>
-      <p class="desc"></p>
+      <p class="desc">Can craft rods, hooks, bobbers, and bait, and upgrade them with custom tackle and rod skins.</p>
     </div>
   </div>
 </article>
@@ -236,12 +246,32 @@ intro: >-
   </div>
 </article>
 
-<article id="curator">
+<article id="decorator">
   <div class="head">
-    <img src="{{ '/icons/curator.png' | relative_url }}" alt="">
+    <img src="{{ '/icons/decorator.png' | relative_url }}" alt="">
     <div>
-      <h2>Curator</h2>
-      <p class="desc"></p>
+      <h2>Decorator</h2>
+      <p class="desc">Can furnish and decorate any build with chairs, sofas, tables, shelves, and lamps, doors in many styles, and awnings, flags, and sconces.</p>
+    </div>
+  </div>
+</article>
+
+<article id="painter">
+  <div class="head">
+    <img src="{{ '/icons/painter.png' | relative_url }}" alt="">
+    <div>
+      <h2>Painter</h2>
+      <p class="desc">Can paint and sketch pictures with colored pencils, canvases, easels, and palettes.</p>
+    </div>
+  </div>
+</article>
+
+<article id="photographer">
+  <div class="head">
+    <img src="{{ '/icons/photographer.png' | relative_url }}" alt="">
+    <div>
+      <h2>Photographer</h2>
+      <p class="desc">Can take, develop, and display photographs with cameras, film, the lightroom, albums, and frames.</p>
     </div>
   </div>
 </article>
@@ -251,7 +281,7 @@ intro: >-
     <img src="{{ '/icons/shipwright.png' | relative_url }}" alt="">
     <div>
       <h2>Shipwright</h2>
-      <p class="desc"></p>
+      <p class="desc">Can build ships with the cog, caravel, general, and decorative ship builders, and craft the Lady Maria pirate armor set.</p>
     </div>
   </div>
 </article>
