@@ -291,7 +291,7 @@ intro: >-
     <img src="{{ '/icons/tailor.png' | relative_url }}" alt="">
     <div>
       <h2>Tailor</h2>
-      <p class="desc"></p>
+      <p class="desc">Can craft cosmetic clothing and outfits for every climate, and is the only one who can insulate any armor with sewn protection from heat or cold.</p>
     </div>
   </div>
 </article>
